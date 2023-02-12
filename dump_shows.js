@@ -38,7 +38,7 @@ async function getList() {
         page++;
         hasNextPage = response.Page.pageInfo.hasNextPage
     }
-    fs.writeFileSync('./scores.txt', animeArr.join('\n'), 'utf-8');
+    fs.writeFileSync('./rankings.txt', animeArr.join('\n'), 'utf-8');
 }
 
 getList();
