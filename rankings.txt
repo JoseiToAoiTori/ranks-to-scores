@@ -49,6 +49,7 @@ Kill la Kill
 Promare
 Princess Tutu
 Panty & Stocking with Garterbelt
+Yuuri!!! on ICE
 Flip Flappers
 Majo no Takkyuubin
 Shoujo Shuumatsu Ryokou
@@ -69,8 +70,11 @@ Tsuki ga Kirei
 Houseki no Kuni
 Gankutsuou
 Yojouhan Time Machine Blues
+Yoru wa Mijikashi Arukeyo Otome
+Kyousougiga (TV)
 Gekkan Shoujo Nozaki-kun
 Lupin III: Cagliostro no Shiro
+Little Witch Academia: Mahou-jikake no Parade
 Haikyuu!! 2nd Season
 Haikyuu!!
 Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
@@ -79,6 +83,7 @@ Eizouken ni wa Te wo Dasu na!
 Shoujo☆Kageki Revue Starlight Movie
 Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete
 Michiko to Hatchin
+Sakamichi no Apollon
 Jinrui wa Suitai Shimashita
 Tanaka-kun wa Itsumo Kedaruge
 4-nin wa Sorezore Uso wo Tsuku
@@ -89,26 +94,36 @@ Major S6
 Major: Message
 Major 2nd Season 2
 Oki ni Mesu mama
+Tokyo Marble Chocolate
+Koe no Katachi
 Baccano!
 ACCA: 13-ku Kansatsu-ka
+ACCA: 13-ku Kansatsu-ka - Regards
 Honobono Log
 Rilakkuma to Kaoru-san
 Mudai
 Gin no Saji
+Totsukuni no Shoujo
 Kimi to Boku.
 Kimi to Boku. 2
+Yagate Kimi ni Naru
 Akagami no Shirayuki-hime
+Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 Hoshiai no Sora
+Ginga Tetsudou no Yoru
 Doukyuusei
 Shoujo☆Kageki Revue Starlight
 Sakura Quest
 HUNTER×HUNTER (2011)
 Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!?
 Shinsekai yori
+Tenshi no Tamago
 Sasameki Koto
 Samurai Champloo
 Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
 Kimi no Na wa.
+Sonny Boy
+Little Witch Academia
 Ongaku
 GOTCHA!
 Oshiete! Galko-chan
@@ -126,6 +141,8 @@ SPY×FAMILY
 SPY×FAMILY Part 2
 Paripi Koumei
 Bocchi the Rock!
+Yama no Susume: Third Season
+Kaiba
 Youjo Shachou
 Mob Psycho 100 II
 Mob Psycho 100
@@ -141,6 +158,7 @@ Hoozuki no Reitetsu 2
 Ikezu
 Baby I Love You Daze
 Hypnosis Mic: Division Rap Battle - Rhyme Anima
+Love Live! Nijigasaki Gakuen School Idol Doukoukai
 Saiki Kusuo no Ψ-nan 2
 Saiki Kusuo no Ψ-nan: Kanketsu-hen
 Non Non Biyori
@@ -150,6 +168,7 @@ Durarara!! Specials
 Mairimashita! Iruma-kun
 Kaguya-sama wa Kokurasetai: Ultra Romantic
 Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
+Aggressive Retsuko Season 5
 Modao Zushi
 Modao Zushi 2
 Tian Guan Ci Fu
@@ -407,7 +426,7 @@ Boku no Tonari ni Ankoku Hakaishin ga Imasu.
 Himitsu Spark
 Kobayashi-san Chi no Maidragon
 BANANA FISH
-Final Fantasy XV Episode Ardyn - Prologue
+FINAL FANTASY XV EPISODE ARDYN - PROLOGUE
 Hataraku Saibou
 Heya Camp△
 Transfer
@@ -484,6 +503,7 @@ Fruits Basket: 2nd Season
 One Punch Man 2
 Mind Game
 Carole & Tuesday
+Plastic Memories
 Egao no Daika
 Fate/kaleid liner Prisma☆Illya
 Fate/stay night [Heaven's Feel] I. presage flower
