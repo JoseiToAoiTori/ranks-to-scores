@@ -38,7 +38,11 @@ async function getList() {
         page++;
         hasNextPage = response.Page.pageInfo.hasNextPage
     }
-    fs.writeFileSync('./rankings.txt', animeArr.join('\n'), 'utf-8');
+
+    const uniqueArr = [...new Set(animeArr)];
+    console.log(uniqueArr.length);
+
+    fs.writeFileSync('./rankings.txt', uniqueArr.join('\n'), 'utf-8');
 }
 
 getList();
