@@ -10,8 +10,8 @@ Haibane Renmei
 Yojouhan Shinwa Taikei
 Ginga Eiyuu Densetsu
 Cardcaptor Sakura
-Cardcaptor Sakura Movie: Fuinsareta Card
 Hyouka
+serial experiments lain
 Chihayafuru
 Chihayafuru 2
 Chihayafuru 3
@@ -40,6 +40,7 @@ Shouwa Genroku Rakugo Shinjuu
 Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 PSYCHO-PASS
 Tengen Toppa Gurren Lagann
+Cardcaptor Sakura Movie: Fuinsareta Card
 Hourou Musuko
 Ping Pong THE ANIMATION
 Nichijou
@@ -100,9 +101,12 @@ Akagami no Shirayuki-hime
 Hoshiai no Sora
 Doukyuusei
 Shoujo☆Kageki Revue Starlight
+Sakura Quest
 HUNTER×HUNTER (2011)
 Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!?
 Shinsekai yori
+Sasameki Koto
+Samurai Champloo
 Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
 Kimi no Na wa.
 Ongaku
@@ -117,10 +121,12 @@ BIRDIE WING: Golf Girls' Story
 Haikyuu!! TO THE TOP
 Hana to Alice Satsujin Jiken
 Lycoris Recoil
+High☆Speed!: Free! Starting Days
 SPY×FAMILY
 SPY×FAMILY Part 2
 Paripi Koumei
 Bocchi the Rock!
+Youjo Shachou
 Mob Psycho 100 II
 Mob Psycho 100
 Cardcaptor Sakura Movie
@@ -166,9 +172,11 @@ Haikyuu!! Riku VS Kuu
 Free!
 Free!: Eternal Summer
 Free!: Take Your Marks
+Free!: Dive to the Future
 Uchitama?! Uchi no Tama Shirimasenka?
 Sarazanmai
 Kimi to, Nami ni Noretara
+Suzumiya Haruhi no Shoushitsu
 Nakitai Watashi wa Neko wo Kaburu
 Chuunibyou demo Koi ga Shitai!: Take On Me
 Chuunibyou demo Koi ga Shitai!
@@ -179,6 +187,8 @@ Lucky☆Star OVA
 Lucky☆Star
 Mousou Dairinin
 Sora yori mo Tooi Basho
+NHK ni Youkoso!
+Nodame Cantabile: Paris-hen
 Lovely★Complex
 Star☆Twinkle Precure
 Kyokou Suiri
@@ -188,76 +198,137 @@ Mahou Shoujo Madoka☆Magica
 Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
 ARIA The AVVENIRE
 Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
+Toradora!
+Tsurune: Kazemai Koukou Kyuudou-bu
 Kidou Keisatsu Patlabor 2: the Movie
 Kidou Keisatsu Patlabor: The Movie
 GHOST IN THE SHELL: Koukaku Kidoutai
 TRIGUN
+Romantic Killer
 SK∞
 Heikousen
+DEATH NOTE
 Hoozuki no Reitetsu
 Umibe no Étranger
 Ookami Kodomo no Ame to Yuki
 Steins;Gate
 NEW GAME!
+NEW GAME!!
 Hinamatsuri
 Hisone to Maso-tan
 Asagao to Kase-san.
 Bessatsu Olympia Kyklos
+Dr. STONE
+Dr. STONE: STONE WARS
 sister
 SHIROBAKO Movie
+Kokoro Connect
+Kokoro Connect: Michi Random
 Durarara!!x2 Ten
+Durarara!!x2 Ketsu
+Durarara!!x2 Ketsu: DuFuFuFu!!
+Durarara!!x2 Shou
 Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma
 Cardcaptor Sakura: Clear Card-hen
 Umibe no Étranger
+Fuujin Monogatari
 Junkers Come Here
 Kakushigoto
 Simoun
+PSYCHO-PASS Movie
 Mitsuboshi Colors
 Hisone to Maso-tan
 Megalo Box
+Yoake Tsugeru Lu no Uta
 IDOLiSH7
 IDOLiSH7: Second BEAT!
 IDOLiSH7 Vibrato
 Major 2nd
 Space☆Dandy 2
+Deca-Dence
+Dorohedoro
+Given
+Given Movie
 Non Non Biyori: Nonstop
 Non Non Biyori: Vacation
 Saezuru Tori wa Habatakanai: The clouds gather
 PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni
 Hinamatsuri
+Gabriel Dropout
+Gal to Kyouryuu
+Comic Girls
+Chuubyou Gekihatsu Boy (TV)
+Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen
 BNA
 Kidou Senshi Gundam: Suisei no Majo
 One Outs
+Working!!
+Working!!'
+Working!!!
+Golden Time
+Golden Kamuy
+Golden Kamuy 2nd Season
 Nagi no Asukara
 BLACKFOX
 Bananya
 MEMORIES
 Hi Score Girl: EXTRA STAGE
 Lupin III: PART 5
+Fugou Keiji: Balance:UNLIMITED
+GREAT PRETENDER
+Fate/Zero
+Fate/Zero 2nd Season
+Fate/stay night: Unlimited Blade Works
+Fate/stay night: Unlimited Blade Works 2nd Season
+Grand Blue
+Fate/Apocrypha
+Fate/Grand Order: First Order
 Tada-kun wa Koi wo Shinai
 Princess Principal
 Breakers
 BEASTARS
+Kotonoha no Niwa
+Fruits Basket: 1st Season
+Fragtime
 sister
 Irozuku Sekai no Ashita kara
 Tsurezure Children
+Endro~!
+Gamers!
 Hanasaku Iroha: HOME SWEET HOME
+Violet Evergarden
+Fune wo Amu
 RELEASE THE SPYCE
+Mukougaoka Chisato wa Tada Mitsumeteita no Datta
+Sayonara Gokko
+Crazy for It
+Cross Road
+CRYSTAL CLEAR
+FAKE!FAKE!
 Bokura Mada Underground
 BAUMKUCHEN END
 Atarashii Sekai
+Crescent rise
+Dramaturgy
 Shelter
 Baccano! Specials
 Heikousen
+PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
+PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu
+Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note
 MEMORiES MELODiES
 Natsunagu!
+Cider no You ni Kotoba ga Wakiagaru
 Yuru Camp△
+Yuru Yuri
+Yuru Yuri♪♪
 Boku no Hero Academia 2
 Taishou Yakyuu Musume.
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
 Sword Art Online Alternative: Gun Gale Online
 Josee to Tora to Sakanatachi
 Summer Wars
+Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
 Wonder Egg Priority
 Kimi ni Todoke
 Kokoro ga Sakebitagatterun da.
@@ -265,6 +336,7 @@ Shingeki no Kyojin 3 Part 2
 Shingeki no Kyojin 3
 Shingeki no Kyojin 2
 Shingeki no Kyojin
+Shingeki no Kyojin: The Final Season
 Soba e
 Dolly
 Kimi ni Sekai
@@ -273,6 +345,8 @@ Kanojo wa Zombie
 Susume, Karolina.
 Kokoro Yohou
 MONSTER GENERATiON
+Korekuraide Utau
+L'Œil du Cyclone
 Summer Wars
 Ousama Ranking
 Tsurezure Children
@@ -285,28 +359,36 @@ Hanasaku Iroha: HOME SWEET HOME
 Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 Paprika
 Hibike! Euphonium: Chikai no Finale
+Suzumiya Haruhi no Yuuutsu
 Suzumiya Haruhi no Yuuutsu (2009)
 Shin Seiki Evangelion
 Mob Psycho 100 III
 Yama no Susume
 Wotaku ni Koi wa Muzukashii
 Mushishi
+Gaikotsu Shotenin Honda-san
 TEXHNOLYZE
+SSSS.GRIDMAN
 Hoozuki no Reitetsu 2: Part II
 Slow Start
 Hi Score Girl II
 Zombie Land Saga
+Sword Art Online: Ordinal Scale
 LUPIN ZERO
 Space☆Dandy
 Jujutsu Kaisen
 Inu x Boku SS
 Inu x Boku SS Special
 Kanamewo
+Girls und Panzer
+Girls und Panzer Movie
+Girls und Panzer: Saishuushou 1
 Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
 Shigatsu wa Kimi no Uso
 Baby Steps
 Zombie Land Saga
 Jibaku Shounen Hanako-kun
+DOUBLE DECKER! Doug & Kirill
 Bananya: Fushigi na Nakamatachi
 Bungou Stray Dogs
 Bungou Stray Dogs 2nd Season
@@ -382,7 +464,9 @@ DIAMOND FUSION
 Leopard Eyes
 BROTHERHOOD FINAL FANTASY XV
 Ura Sekai Picnic
+Samurai Flamenco
 Sakasama no Patema
+Wu Shan Wu Xing: Zhuo Yuan Shen Huo
 Kami no Tou: Tower of God
 Senki Zesshou Symphogear GX
 Senki Zesshou Symphogear
@@ -392,13 +476,22 @@ Higurashi no Naku Koro ni
 Runway de Waratte
 Re:Zero kara Hajimeru Isekai Seikatsu
 Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+Durarara!!x2 Ten: Onoroke Chakapoko
 Code Geass: Hangyaku no Lelouch
 Code Geass: Hangyaku no Lelouch R2
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+Fruits Basket: 2nd Season
 One Punch Man 2
 Mind Game
 Carole & Tuesday
-Plastic Memories
+Egao no Daika
+Fate/kaleid liner Prisma☆Illya
+Fate/stay night [Heaven's Feel] I. presage flower
+Fate/stay night [Heaven's Feel] II. lost butterfly
+Plastic Memories'
+Kizumonogatari I: Tekketsu-hen
+Kizumonogatari II: Nekketsu-hen
+Kizumonogatari III: Reiketsu-hen
 Monogatari Series: Second Season
 PSYCHO-PASS 3: FIRST INSPECTOR
 Bakemonogatari
@@ -414,18 +507,23 @@ Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen
 THE GOD OF HIGH SCHOOL
 Null Peta
 Steins;Gate 0
+Koisuru Asteroid
 Harukana Receive
 Sword Art Online II
 Sword Art Online: Alicization
 Nekomonogatari (Kuro)
 Nisemonogatari
+Yesterday wo Utatte
 Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
 Midara na Ao-chan wa Benkyou ga Dekinai
+Kanashimi no Belladonna
 Manaria Friends
 Sword Art Online: Alicization - War of Underworld
 Sword Art Online: Alicization - War of Underworld Part 2
 Ahiru no Sora
+Domestic na Kanojo
 Bokura no Nanokakan Sensou
+Tokyo Ghoul
 Tokyo Ghoul:re
 Tokyo Ghoul √A
 Asobi Asobase
@@ -434,6 +532,7 @@ FAIRY TAIL
 FAIRY TAIL (2014)
 FAIRY TAIL Movie: Houou no Miko
 GODZILLA: Hoshi wo Kuu Mono
+Kamisama ni Natta Hi
 Hakubo
 Hand Shakers: Go ago Go
 HELLO WORLD
