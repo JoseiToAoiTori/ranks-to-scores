@@ -7,7 +7,7 @@ const query = `query ($name: String, $page: Int) {
     pageInfo {
       hasNextPage
     }
-    mediaList(userName: $name, type: ANIME, sort: SCORE_DESC, status: COMPLETED) {
+    mediaList(userName: $name, type: ANIME, sort: [SCORE_DESC, MEDIA_ID], status: COMPLETED) {
       media {
         id
         title {
