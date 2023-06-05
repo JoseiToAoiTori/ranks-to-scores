@@ -125,6 +125,7 @@ Kimi no Na wa.
 Sonny Boy
 Little Witch Academia
 Ongaku
+Kidou Keisatsu Patlabor 2: the Movie
 GOTCHA!
 Oshiete! Galko-chan
 Inferno Cop
@@ -143,6 +144,7 @@ Paripi Koumei
 Bocchi the Rock!
 Yama no Susume: Third Season
 Kaiba
+Little Witch Academia (TV)
 Youjo Shachou
 Mob Psycho 100 II
 Mob Psycho 100
@@ -159,8 +161,10 @@ Ikezu
 Baby I Love You Daze
 Hypnosis Mic: Division Rap Battle - Rhyme Anima
 Love Live! Nijigasaki Gakuen School Idol Doukoukai
+Saiki Kusuo no Ψ-nan
 Saiki Kusuo no Ψ-nan 2
 Saiki Kusuo no Ψ-nan: Kanketsu-hen
+Vlad Love
 Non Non Biyori
 Non Non Biyori: Repeat
 Durarara!!
@@ -175,6 +179,11 @@ Tian Guan Ci Fu
 Oshi ga Budoukan Ittekuretara Shinu
 Taisou Zamurai
 Maou-jou de Oyasumi
+Yamiyo
+raison d'etre
+Airy Me
+GIRL ELECTRIC
+Android Girl
 Hanasaku Iroha
 Machikado Mazoku
 Koi wa Ameagari no You ni
@@ -200,7 +209,10 @@ Nakitai Watashi wa Neko wo Kaburu
 Chuunibyou demo Koi ga Shitai!: Take On Me
 Chuunibyou demo Koi ga Shitai!
 Sakurasou no Pet na Kanojo
+Kyokou Suiri Season 2
+Yuri Kuma Arashi
 Bishoujo Senshi Sailor Moon
+Top wo Nerae 2! DIEBUSTER
 Yama no Susume: Omoide Present
 Lucky☆Star OVA
 Lucky☆Star
@@ -219,10 +231,11 @@ ARIA The AVVENIRE
 Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
 Toradora!
 Tsurune: Kazemai Koukou Kyuudou-bu
-Kidou Keisatsu Patlabor 2: the Movie
 Kidou Keisatsu Patlabor: The Movie
 GHOST IN THE SHELL: Koukaku Kidoutai
 TRIGUN
+Saiki Kusuo no Ψ-nan: Ψ-shidou-hen
+Ao Haru Ride
 Romantic Killer
 SK∞
 Heikousen
@@ -251,6 +264,7 @@ Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma
 Cardcaptor Sakura: Clear Card-hen
 Umibe no Étranger
 Fuujin Monogatari
+Suzume no Tojimari
 Junkers Come Here
 Kakushigoto
 Simoun
@@ -265,13 +279,14 @@ IDOLiSH7 Vibrato
 Major 2nd
 Space☆Dandy 2
 Deca-Dence
+AKIRA
 Dorohedoro
+Adachi to Shimamura
 Given
 Given Movie
 Non Non Biyori: Nonstop
 Non Non Biyori: Vacation
 Saezuru Tori wa Habatakanai: The clouds gather
-PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni
 Hinamatsuri
 Gabriel Dropout
 Gal to Kyouryuu
@@ -282,8 +297,10 @@ BNA
 Kidou Senshi Gundam: Suisei no Majo
 One Outs
 Working!!
-Working!!'
+Working'!!
 Working!!!
+Working!!!: Lord of the Takanashi
+Araburu Kisetsu no Otome-domo yo.
 Golden Time
 Golden Kamuy
 Golden Kamuy 2nd Season
@@ -306,6 +323,7 @@ Tada-kun wa Koi wo Shinai
 Princess Principal
 Breakers
 BEASTARS
+Aoashi
 Kotonoha no Niwa
 Fruits Basket: 1st Season
 Fragtime
@@ -317,6 +335,7 @@ Gamers!
 Hanasaku Iroha: HOME SWEET HOME
 Violet Evergarden
 Fune wo Amu
+Mou Ippon!
 RELEASE THE SPYCE
 Mukougaoka Chisato wa Tada Mitsumeteita no Datta
 Sayonara Gokko
@@ -334,6 +353,7 @@ Baccano! Specials
 Heikousen
 PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
 PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu
+3-gatsu no Lion
 Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note
 MEMORiES MELODiES
 Natsunagu!
@@ -374,6 +394,14 @@ Kaze no Tani no Nausicaä
 Kino no Tabi: the Beautiful World - Byouki no Kuni: For You
 Kino no Tabi: Nanika wo Suru Tame ni -life goes on.-
 BURN THE WITCH
+Ani ni Tsukeru Kusuri wa Nai!
+Ani ni Tsukeru Kusuri wa Nai! 2
+Ani ni Tsukeru Kusuri wa Nai! 3
+Ani ni Tsukeru Kusuri wa Nai! 4
+Aggressive Retsuko
+Aggressive Retsuko Season 2
+Aggressive Retsuko Season 3
+Aggressive Retsuko: We Wish You A Metal Christmas
 Hanasaku Iroha: HOME SWEET HOME
 Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 Paprika
@@ -423,14 +451,14 @@ Boku no Hero Academia 3
 Boku no Hero Academia 4
 Boku no Hero Academia THE MOVIE: Futari no Hero
 Boku no Tonari ni Ankoku Hakaishin ga Imasu.
-Himitsu Spark
+HIMITSU Spark
 Kobayashi-san Chi no Maidragon
 BANANA FISH
 FINAL FANTASY XV EPISODE ARDYN - PROLOGUE
 Hataraku Saibou
 Heya Camp△
 Transfer
-Shake
+shake
 The TV Show
 MONOTONOUS PURGATORY
 Psychogram
@@ -454,6 +482,7 @@ Urashimasakatasen no Nichijou
 Joshikausei
 No Game No Life
 No Game No Life Zero
+Aggressive Retsuko Season 4
 Tenkuu no Shiro Laputa
 Hotarubi no Mori e
 Tenki no Ko
@@ -503,12 +532,11 @@ Fruits Basket: 2nd Season
 One Punch Man 2
 Mind Game
 Carole & Tuesday
-Plastic Memories
 Egao no Daika
 Fate/kaleid liner Prisma☆Illya
 Fate/stay night [Heaven's Feel] I. presage flower
 Fate/stay night [Heaven's Feel] II. lost butterfly
-Plastic Memories'
+Plastic Memories
 Kizumonogatari I: Tekketsu-hen
 Kizumonogatari II: Nekketsu-hen
 Kizumonogatari III: Reiketsu-hen
