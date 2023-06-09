@@ -160,7 +160,6 @@ Hoozuki no Reitetsu 2
 Ikezu
 Baby I Love You Daze
 Hypnosis Mic: Division Rap Battle - Rhyme Anima
-Love Live! Nijigasaki Gakuen School Idol Doukoukai
 Saiki Kusuo no Ψ-nan
 Saiki Kusuo no Ψ-nan 2
 Saiki Kusuo no Ψ-nan: Kanketsu-hen
@@ -236,6 +235,7 @@ Tsurune: Kazemai Koukou Kyuudou-bu
 Kidou Keisatsu Patlabor: The Movie
 GHOST IN THE SHELL: Koukaku Kidoutai
 TRIGUN
+Love Live! Nijigasaki Gakuen School Idol Doukoukai
 Saiki Kusuo no Ψ-nan: Ψ-shidou-hen
 Ao Haru Ride
 Romantic Killer

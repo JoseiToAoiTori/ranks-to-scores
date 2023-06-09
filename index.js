@@ -1,7 +1,7 @@
 const fs = require('fs');
 const config = require('./config.json');
 
-const anime = fs.readFileSync('./rankings.txt', 'utf-8').split('\n');
+const anime = fs.readFileSync('./rankings.txt', 'utf-8').split(/\r?\n/);
 
 function groupByPercentage(anime, percentages) {
     // Get percentage for 1 user:
