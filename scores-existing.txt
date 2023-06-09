@@ -60,7 +60,6 @@ ARIA The NATURAL - 8
 Lupin III: Cagliostro no Shiro - 8
 ARIA The OVA: ARIETTA - 8
 Michiko to Hatchin - 8
-Cross Game - 8
 Heartcatch Precure! - 8
 Jinrui wa Suitai Shimashita - 8
 Sakamichi no Apollon - 8
@@ -96,6 +95,7 @@ Ginga Tetsudou no Yoru - 7
 Nodame Cantabile - 7
 Baccano! - 7
 Tokyo Marble Chocolate - 7
+Cross Game - 7
 Sasameki Koto - 7
 Major S6 - 7
 Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!? - 7
@@ -107,7 +107,6 @@ Shinsekai yori - 7
 Little Witch Academia - 7
 Inferno Cop - 7
 Gin no Saji - 7
-Gin no Saji 2 - 7
 Koe no Katachi - 7
 Akagami no Shirayuki-hime - 7
 Doukyuusei - 7
@@ -152,6 +151,7 @@ Cencoroll 2 - 6
 Senyuu. - 6
 Non Non Biyori - 6
 Senyuu. 2 - 6
+Gin no Saji 2 - 6
 Hi Score Girl - 6
 Non Non Biyori: Repeat - 6
 Hana to Alice Satsujin Jiken - 6
@@ -182,7 +182,6 @@ Android Girl - 6
 Vlad Love - 6
 Yamiyo - 6
 Maou-jou de Oyasumi - 6
-Haikyuu!! Riku VS Kuu - 6
 raison d'etre - 6
 Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen - 6
 Tian Guan Ci Fu - 6
@@ -307,7 +306,6 @@ Star☆Twinkle Precure - 5
 Araburu Kisetsu no Otome-domo yo. - 5
 sister - 5
 Kyokou Suiri - 5
-Bokura Mada Underground - 5
 BEASTARS - 5
 Sayonara Gokko - 5
 Given - 5
@@ -322,6 +320,7 @@ Deca-Dence - 5
 BNA - 5
 Gal to Kyouryuu - 5
 Given Movie - 5
+Haikyuu!! Riku VS Kuu - 5
 Saiki Kusuo no Ψ-nan: Ψ-shidou-hen - 5
 Umibe no Étranger - 5
 Kakushigoto - 5
@@ -437,6 +436,7 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 4
 Aggressive Retsuko: We Wish You A Metal Christmas - 4
 Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note - 4
 Dramaturgy - 4
+Bokura Mada Underground - 4
 FINAL FANTASY XV EPISODE ARDYN - PROLOGUE - 4
 Cider no You ni Kotoba ga Wakiagaru - 4
 Kawaki wo Ameku - 4
