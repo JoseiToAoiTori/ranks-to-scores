@@ -12,6 +12,7 @@ Natsume Yuujinchou San - 10
 Chihayafuru - 10
 Natsume Yuujinchou Shi - 10
 Hyouka - 10
+LUPIN the Third: Mine Fujiko to Iu Onna - 10
 Chihayafuru 2 - 10
 SHIROBAKO - 10
 Liz to Aoi Tori - 10
@@ -21,7 +22,6 @@ Cardcaptor Sakura Movie: Fuinsareta Card - 9
 PERFECT BLUE - 9
 Shoujo Kakumei Utena - 9
 Kino no Tabi: the Beautiful World - 9
-Majo no Takkyuubin - 9
 Mimi wo Sumaseba - 9
 Princess Tutu - 9
 Ouran Koukou Host Club - 9
@@ -36,7 +36,6 @@ Usagi Drop - 9
 Nichijou - 9
 Otona Joshi no Anime Time - 9
 Mawaru Penguindrum - 9
-LUPIN the Third: Mine Fujiko to Iu Onna - 9
 PSYCHO-PASS - 9
 Tamako Market - 9
 Kill la Kill - 9
@@ -54,24 +53,18 @@ Kareshi Kanojo no Jijou - 8
 Gankutsuou - 8
 Shoujo Kakumei Utena: Adolescence Mokushiroku - 8
 ARIA The ANIMATION - 8
+Majo no Takkyuubin - 8
 JIN-ROH - 8
 Tokyo Godfathers - 8
 ARIA The NATURAL - 8
 Lupin III: Cagliostro no Shiro - 8
-Ginga Tetsudou no Yoru - 8
-Baccano! - 8
 ARIA The OVA: ARIETTA - 8
 Michiko to Hatchin - 8
 Cross Game - 8
 Heartcatch Precure! - 8
-Major S6 - 8
-Major: Message - 8
 Jinrui wa Suitai Shimashita - 8
-Kimi to Boku. - 8
-Kimi to Boku. 2 - 8
 Sakamichi no Apollon - 8
 Kono Sekai no Katasumi ni - 8
-Gin no Saji - 8
 Little Witch Academia: Mahou-jikake no Parade - 8
 Kyousougiga (TV) - 8
 Haikyuu!! - 8
@@ -79,527 +72,528 @@ Yama no Susume: Second Season - 8
 Gekkan Shoujo Nozaki-kun - 8
 Haikyuu!! 2nd Season - 8
 Go! Princess Precure - 8
-Akagami no Shirayuki-hime - 8
-Doukyuusei - 8
 Hibike! Euphonium 2 - 8
 Tanaka-kun wa Itsumo Kedaruge - 8
 Uchuu Patrol Luluco - 8
 Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou - 8
 Yuuri!!! on ICE - 8
 Flip Flappers - 8
-Honobono Log - 8
-ACCA: 13-ku Kansatsu-ka - 8
 Yoru wa Mijikashi Arukeyo Otome - 8
 Tsuki ga Kirei - 8
 Houseki no Kuni - 8
-Rilakkuma to Kaoru-san - 8
 Shoujo Shuumatsu Ryokou - 8
-Baja no Studio - 8
-Mudai - 8
-Hoshiai no Sora - 8
-Oki ni Mesu mama - 8
 Eizouken ni wa Te wo Dasu na! - 8
 Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete - 8
-Baja no Studio: Baja no Mita Umi - 8
-Major 2nd Season 2 - 8
 Shoujo☆Kageki Revue Starlight Movie - 8
 Haikyuu!! TO THE TOP 2 - 8
 Yama no Susume: Next Summit - 8
 Yojouhan Time Machine Blues - 8
 4-nin wa Sorezore Uso wo Tsuku - 8
-Sen to Chihiro no Kamikakushi - 7
 Samurai Champloo - 7
-Cardcaptor Sakura Movie - 7
-Major S2 - 7
-Major S1 - 7
 Tenshi no Tamago - 7
 Kidou Keisatsu Patlabor 2: the Movie - 7
+Ginga Tetsudou no Yoru - 7
 Nodame Cantabile - 7
-Cencoroll - 7
+Baccano! - 7
 Tokyo Marble Chocolate - 7
-Major S4 - 7
-Kaiba - 7
-Major S5 - 7
-Major: Yuujou no Ikkyuu - 7
-Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - 7
 Sasameki Koto - 7
-Durarara!! - 7
-Durarara!! Specials - 7
+Major S6 - 7
 Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!? - 7
-Hanasaku Iroha - 7
-Cencoroll 2 - 7
+Major: Message - 7
+Kimi to Boku. - 7
 HUNTER×HUNTER (2011) - 7
+Kimi to Boku. 2 - 7
 Shinsekai yori - 7
-Sakurasou no Pet na Kanojo - 7
 Little Witch Academia - 7
-Chuunibyou demo Koi ga Shitai! - 7
-Senyuu. - 7
 Inferno Cop - 7
-Non Non Biyori - 7
-Free! - 7
-Senyuu. 2 - 7
+Gin no Saji - 7
 Gin no Saji 2 - 7
-Hi Score Girl - 7
-Free!: Eternal Summer - 7
-Non Non Biyori: Repeat - 7
-Hana to Alice Satsujin Jiken - 7
-Ore Monogatari!! - 7
 Koe no Katachi - 7
-One Punch Man - 7
-High☆Speed!: Free! Starting Days - 7
+Akagami no Shirayuki-hime - 7
+Doukyuusei - 7
 Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page - 7
 Oshiete! Galko-chan - 7
-Mob Psycho 100 - 7
 Kimi no Na wa. - 7
-Saiki Kusuo no Ψ-nan - 7
-Little Witch Academia (TV) - 7
+Honobono Log - 7
+ACCA: 13-ku Kansatsu-ka - 7
 Sakura Quest - 7
-Saiki Kusuo no Ψ-nan 2 - 7
-Koi wa Ameagari no You ni - 7
-Hoozuki no Reitetsu 2 - 7
-Free!: Take Your Marks - 7
 Shoujo☆Kageki Revue Starlight - 7
-Chuunibyou demo Koi ga Shitai!: Take On Me - 7
-Yama no Susume: Third Season - 7
-Sarazanmai - 7
-Mob Psycho 100 II - 7
+Rilakkuma to Kaoru-san - 7
+Baja no Studio - 7
 Yagate Kimi ni Naru - 7
-Modao Zushi - 7
-Ikezu - 7
-Oshi ga Budoukan Ittekuretara Shinu - 7
-Modao Zushi 2 - 7
-Saiki Kusuo no Ψ-nan: Kanketsu-hen - 7
-Kimi to, Nami ni Noretara - 7
-Baby I Love You Daze - 7
-Haikyuu!! TO THE TOP - 7
-Machikado Mazoku - 7
-Mairimashita! Iruma-kun - 7
+Mudai - 7
+Hoshiai no Sora - 7
+Oki ni Mesu mama - 7
 Totsukuni no Shoujo - 7
-Somali to Mori no Kamisama - 7
 ACCA: 13-ku Kansatsu-ka - Regards - 7
 Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou - 7
-Uchitama?! Uchi no Tama Shirimasenka? - 7
 Lupin III: THE FIRST - 7
-Maou-jou de Oyasumi - 7
-Haikyuu!! Riku VS Kuu - 7
 Ongaku - 7
-Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen - 7
-Tian Guan Ci Fu - 7
-Hypnosis Mic: Division Rap Battle - Rhyme Anima - 7
-Nakitai Watashi wa Neko wo Kaburu - 7
-Taisou Zamurai - 7
+Baja no Studio: Baja no Mita Umi - 7
+Major 2nd Season 2 - 7
 GOTCHA! - 7
-Kaguya-sama wa Kokurasetai: Ultra Romantic - 7
 Misaki no Mayoiga - 7
-Youjo Shachou - 7
-PUI PUI Molcar - 7
-Bocchi the Rock! - 7
 Sonny Boy - 7
-BIRDIE WING: Golf Girls' Story - 7
-SPY×FAMILY - 7
-Paripi Koumei - 7
-SPY×FAMILY Part 2 - 7
-Lycoris Recoil - 7
-Aggressive Retsuko Season 5 - 7
-TRIGUN - 6
-GHOST IN THE SHELL: Koukaku Kidoutai - 6
-AKIRA - 6
-Mousou Dairinin - 6
-Bishoujo Senshi Sailor Moon - 6
-Kaze no Tani no Nausicaä - 6
-Simoun - 6
-Top wo Nerae 2! DIEBUSTER - 6
-Kidou Keisatsu Patlabor: The Movie - 6
-Junkers Come Here - 6
-NHK ni Youkoso! - 6
-Kino no Tabi: Nanika wo Suru Tame ni -life goes on.- - 6
-MEMORIES - 6
-Fuujin Monogatari - 6
-Major S3 - 6
-Lucky☆Star - 6
-Lovely★Complex - 6
-Kino no Tabi: the Beautiful World - Byouki no Kuni: For You - 6
-Baccano! Specials - 6
-Toradora! - 6
-Lucky☆Star OVA - 6
-Nodame Cantabile: Paris-hen - 6
-One Outs - 6
-Taishou Yakyuu Musume. - 6
-Summer Wars - 6
-Kimi ni Todoke - 6
-Atarashii Sekai - 6
-Working!! - 6
+Sen to Chihiro no Kamikakushi - 6
+Cardcaptor Sakura Movie - 6
+Major S2 - 6
+Major S1 - 6
+Cencoroll - 6
+Major S4 - 6
+Kaiba - 6
+Major S5 - 6
+Major: Yuujou no Ikkyuu - 6
+Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - 6
+Durarara!! - 6
 Suzumiya Haruhi no Shoushitsu - 6
-Mukougaoka Chisato wa Tada Mitsumeteita no Datta - 6
-Steins;Gate - 6
-Mahou Shoujo Madoka☆Magica - 6
-Fate/Zero - 6
-Working'!! - 6
-Fate/Zero 2nd Season - 6
-Kokoro Connect - 6
-Major: World Series - 6
-Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari - 6
-Ookami Kodomo no Ame to Yuki - 6
-Girls und Panzer - 6
-Hanasaku Iroha: HOME SWEET HOME - 6
-Kokoro Connect: Michi Random - 6
-Nagi no Asukara - 6
-Shingeki no Kyojin - 6
-Golden Time - 6
-Girls und Panzer Movie - 6
-Fate/stay night: Unlimited Blade Works - 6
-Hoozuki no Reitetsu - 6
-PSYCHO-PASS Movie - 6
-Ao Haru Ride - 6
-Durarara!!x2 Shou - 6
-Space☆Dandy 2 - 6
-Fate/stay night: Unlimited Blade Works 2nd Season - 6
-Working!!! - 6
-Yuri Kuma Arashi - 6
-Durarara!!x2 Ten - 6
-Durarara!!x2 Ketsu - 6
-Shingeki no Kyojin 2 - 6
-Kokoro ga Sakebitagatterun da. - 6
-ARIA The AVVENIRE - 6
-3-gatsu no Lion - 6
-Working!!!: Lord of the Takanashi - 6
-NEW GAME! - 6
-Senki Zesshou Symphogear XV - 6
-Durarara!!x2 Ketsu: DuFuFuFu!! - 6
-Fune wo Amu - 6
-Bananya - 6
-Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen - 6
-Violet Evergarden - 6
-Boku no Hero Academia 2 - 6
-Gabriel Dropout - 6
-IDOLiSH7 - 6
-Shelter - 6
-Gamers! - 6
-Cardcaptor Sakura: Clear Card-hen - 6
-Yoake Tsugeru Lu no Uta - 6
-Tsurezure Children - 6
-NEW GAME!! - 6
-Ani ni Tsukeru Kusuri wa Nai! - 6
-Mitsuboshi Colors - 6
-Yuru Camp△ - 6
-Princess Principal - 6
-Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma - 6
-Non Non Biyori: Vacation - 6
-Yama no Susume: Omoide Present - 6
-Comic Girls - 6
-Shingeki no Kyojin 3 - 6
-Sora yori mo Tooi Basho - 6
-Asagao to Kase-san. - 6
-Hinamatsuri - 6
-Tada-kun wa Koi wo Shinai - 6
-Sword Art Online Alternative: Gun Gale Online - 6
-Megalo Box - 6
-Major 2nd - 6
-Tsurune: Kazemai Koukou Kyuudou-bu - 6
-Hisone to Maso-tan - 6
-Lupin III: PART 5 - 6
-RELEASE THE SPYCE - 6
-Free!: Dive to the Future - 6
-IDOLiSH7 Vibrato - 6
-Irozuku Sekai no Ashita kara - 6
-BLACKFOX - 6
-Aggressive Retsuko - 6
-SHIROBAKO Movie - 6
-Ani ni Tsukeru Kusuri wa Nai! 2 - 6
-Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen - 6
+Durarara!! Specials - 6
+Hanasaku Iroha - 6
+Cencoroll 2 - 6
+Senyuu. - 6
+Non Non Biyori - 6
+Senyuu. 2 - 6
+Hi Score Girl - 6
+Non Non Biyori: Repeat - 6
+Hana to Alice Satsujin Jiken - 6
+Ore Monogatari!! - 6
+One Punch Man - 6
+High☆Speed!: Free! Starting Days - 6
+Mob Psycho 100 - 6
+Saiki Kusuo no Ψ-nan - 6
+Little Witch Academia (TV) - 6
+Saiki Kusuo no Ψ-nan 2 - 6
+Koi wa Ameagari no You ni - 6
+Hoozuki no Reitetsu 2 - 6
+Yama no Susume: Third Season - 6
+Mob Psycho 100 II - 6
+Modao Zushi - 6
 Airy Me - 6
 GIRL ELECTRIC - 6
-PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu - 6
-Golden Kamuy 2nd Season - 6
-Susume, Karolina. - 6
-IDOLiSH7: Second BEAT! - 6
-MONSTER GENERATiON - 6
-MEMORiES MELODiES - 6
-Hi Score Girl: EXTRA STAGE - 6
-Kanojo wa Zombie - 6
-Shingeki no Kyojin 3 Part 2 - 6
-PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ - 6
-Aggressive Retsuko Season 2 - 6
-Dorohedoro - 6
-Dr. STONE - 6
-Fruits Basket: 1st Season - 6
-Star☆Twinkle Precure - 6
-Araburu Kisetsu no Otome-domo yo. - 6
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 6
-Aggressive Retsuko: We Wish You A Metal Christmas - 6
-sister - 6
-Dramaturgy - 6
-Kyokou Suiri - 6
-Bokura Mada Underground - 6
-BEASTARS - 6
-Sayonara Gokko - 6
-Soba e - 6
-Given - 6
-Fragtime - 6
-Chuubyou Gekihatsu Boy (TV) - 6
-Saezuru Tori wa Habatakanai: The clouds gather - 6
-Kimi ni Sekai - 6
-Adachi to Shimamura - 6
-Non Non Biyori: Nonstop - 6
+Ikezu - 6
+Oshi ga Budoukan Ittekuretara Shinu - 6
+Modao Zushi 2 - 6
+Saiki Kusuo no Ψ-nan: Kanketsu-hen - 6
+Baby I Love You Daze - 6
+Haikyuu!! TO THE TOP - 6
+Machikado Mazoku - 6
+Mairimashita! Iruma-kun - 6
+Somali to Mori no Kamisama - 6
 Android Girl - 6
-Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi - 6
-Ani ni Tsukeru Kusuri wa Nai! 3 - 6
 Vlad Love - 6
 Yamiyo - 6
-Shingeki no Kyojin: The Final Season - 6
-GREAT PRETENDER - 6
-Deca-Dence - 6
-BNA - 6
-Aggressive Retsuko Season 3 - 6
-Gal to Kyouryuu - 6
-Paprika - 6
-Given Movie - 6
-BAUMKUCHEN END - 6
-Dolly - 6
+Maou-jou de Oyasumi - 6
+Haikyuu!! Riku VS Kuu - 6
 raison d'etre - 6
-Saiki Kusuo no Ψ-nan: Ψ-shidou-hen - 6
-Umibe no Étranger - 6
-Kakushigoto - 6
-Natsunagu! - 6
-Josee to Tora to Sakanatachi - 6
-Ousama Ranking - 6
-Breakers - 6
-Love Live! Nijigasaki Gakuen School Idol Doukoukai - 6
-Fugou Keiji: Balance:UNLIMITED - 6
-Crescent rise - 6
-Kokoro Yohou - 6
-Bessatsu Olympia Kyklos - 6
-BURN THE WITCH - 6
-Ani ni Tsukeru Kusuri wa Nai! 4 - 6
-SK∞ - 6
-Wonder Egg Priority - 6
-Yakusoku - 6
-Kyokou Suiri Season 2 - 6
-Heikousen - 6
-Aoashi - 6
-Mou Ippon! - 6
-Kidou Senshi Gundam: Suisei no Majo - 6
-Suzume no Tojimari - 6
-Tensei Oujo to Tensai Reijou no Mahou Kakumei - 6
-Tsurune: Tsunagari no Issha - 6
-Romantic Killer - 6
-TEXHNOLYZE - 5
-Shin Seiki Evangelion - 5
-Mushishi - 5
-Suzumiya Haruhi no Yuuutsu - 5
-xxxHOLiC - 5
-Top wo Nerae! GunBuster - 5
+Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen - 6
+Tian Guan Ci Fu - 6
+Hypnosis Mic: Division Rap Battle - Rhyme Anima - 6
+Taisou Zamurai - 6
+Kaguya-sama wa Kokurasetai: Ultra Romantic - 6
+Youjo Shachou - 6
+PUI PUI Molcar - 6
+Bocchi the Rock! - 6
+BIRDIE WING: Golf Girls' Story - 6
+SPY×FAMILY - 6
+Paripi Koumei - 6
+SPY×FAMILY Part 2 - 6
+Lycoris Recoil - 6
+Aggressive Retsuko Season 5 - 6
+TRIGUN - 5
+GHOST IN THE SHELL: Koukaku Kidoutai - 5
+AKIRA - 5
+Mousou Dairinin - 5
+Bishoujo Senshi Sailor Moon - 5
+Simoun - 5
+Top wo Nerae 2! DIEBUSTER - 5
+Kidou Keisatsu Patlabor: The Movie - 5
+Junkers Come Here - 5
+NHK ni Youkoso! - 5
+MEMORIES - 5
+Fuujin Monogatari - 5
 DEATH NOTE - 5
-Paprika - 5
-Suzumiya Haruhi no Yuuutsu (2009) - 5
-Angel Beats! - 5
-So Ra No Wo To - 5
-The TV Show - 5
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. - 5
-Yuru Yuri - 5
-Korekuraide Utau - 5
-Panty & Stocking in Sanitarybox - 5
-Inu x Boku SS - 5
-Yuru Yuri♪♪ - 5
-Inu x Boku SS Special - 5
-Yama no Susume - 5
-Hataraku Maou-sama! - 5
+Major S3 - 5
+Lucky☆Star - 5
+Lovely★Complex - 5
+Toradora! - 5
+Lucky☆Star OVA - 5
+Nodame Cantabile: Paris-hen - 5
+One Outs - 5
+Working!! - 5
+Mukougaoka Chisato wa Tada Mitsumeteita no Datta - 5
+Steins;Gate - 5
+Mahou Shoujo Madoka☆Magica - 5
+Fate/Zero - 5
+Working'!! - 5
+Fate/Zero 2nd Season - 5
+Kokoro Connect - 5
+Major: World Series - 5
+Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari - 5
+Ookami Kodomo no Ame to Yuki - 5
+Sakurasou no Pet na Kanojo - 5
+Chuunibyou demo Koi ga Shitai! - 5
+Kokoro Connect: Michi Random - 5
+Nagi no Asukara - 5
 Kotonoha no Niwa - 5
-Yasashii March: The Tender March - 5
-Transfer - 5
-No Game No Life - 5
-Space☆Dandy - 5
-Baby Steps - 5
-Amagi Brilliant Park - 5
-Shigatsu wa Kimi no Uso - 5
+Golden Time - 5
+Free! - 5
+Fate/stay night: Unlimited Blade Works - 5
+Hoozuki no Reitetsu - 5
+PSYCHO-PASS Movie - 5
+Ao Haru Ride - 5
+Free!: Eternal Summer - 5
+Durarara!!x2 Shou - 5
+Space☆Dandy 2 - 5
+Fate/stay night: Unlimited Blade Works 2nd Season - 5
+Working!!! - 5
+Yuri Kuma Arashi - 5
 Cross Road - 5
-Akagami no Shirayuki-hime 2nd Season - 5
-Bungou Stray Dogs - 5
-Fate/kaleid liner Prisma☆Illya 3rei!! - 5
-Sword Art Online: Ordinal Scale - 5
-Handa-kun - 5
-Kanamewo - 5
-Senki Zesshou Symphogear AXZ - 5
-Bungou Stray Dogs 2nd Season - 5
-Kobayashi-san Chi no Maidragon - 5
-No Game No Life Zero - 5
+Durarara!!x2 Ten - 5
+Durarara!!x2 Ketsu - 5
+ARIA The AVVENIRE - 5
+Working!!!: Lord of the Takanashi - 5
+NEW GAME! - 5
+Durarara!!x2 Ketsu: DuFuFuFu!! - 5
+Fune wo Amu - 5
+Bananya - 5
+Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen - 5
+Violet Evergarden - 5
+Gabriel Dropout - 5
+IDOLiSH7 - 5
+Gamers! - 5
 Fate/Grand Order: First Order - 5
-Re:CREATORS - 5
+Cardcaptor Sakura: Clear Card-hen - 5
 Fate/Apocrypha - 5
-3-gatsu no Lion 2 - 5
-Slow Start - 5
-SSSS.GRIDMAN - 5
-Karakai Jouzu no Takagi-san - 5
-Wotaku ni Koi wa Muzukashii - 5
+Yoake Tsugeru Lu no Uta - 5
+NEW GAME!! - 5
+Mitsuboshi Colors - 5
+Free!: Take Your Marks - 5
+Princess Principal - 5
+Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma - 5
+Chuunibyou demo Koi ga Shitai!: Take On Me - 5
+Non Non Biyori: Vacation - 5
+Yama no Susume: Omoide Present - 5
+Comic Girls - 5
+Sora yori mo Tooi Basho - 5
 Golden Kamuy - 5
-22/7 - 5
-Girls und Panzer: Saishuushou 1 - 5
+Asagao to Kase-san. - 5
 Crazy for It - 5
-Gaikotsu Shotenin Honda-san - 5
-Boku no Hero Academia 3 - 5
-BANANA FISH - 5
-Boku no Hero Academia THE MOVIE: Futari no Hero - 5
-Hoozuki no Reitetsu 2: Part II - 5
+Hinamatsuri - 5
+Tada-kun wa Koi wo Shinai - 5
+Megalo Box - 5
+Major 2nd - 5
+Tsurune: Kazemai Koukou Kyuudou-bu - 5
+Hisone to Maso-tan - 5
 Grand Blue - 5
-Hataraku Saibou - 5
+Lupin III: PART 5 - 5
+RELEASE THE SPYCE - 5
 FAKE!FAKE! - 5
 CRYSTAL CLEAR - 5
-Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 5
-Penguin Highway - 5
-Kishuku Gakkou no Juliet - 5
-DOUBLE DECKER! Doug & Kirill - 5
-Hitoribocchi no Marumaru Seikatsu - 5
-Hibike! Euphonium: Chikai no Finale - 5
-Nihonbashi Koukashita R Keikaku - 5
-MONOTONOUS PURGATORY - 5
-HIMITSU Spark - 5
+Free!: Dive to the Future - 5
+IDOLiSH7 Vibrato - 5
+Sarazanmai - 5
+Irozuku Sekai no Ashita kara - 5
+BLACKFOX - 5
+SHIROBAKO Movie - 5
+Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen - 5
+Golden Kamuy 2nd Season - 5
+IDOLiSH7: Second BEAT! - 5
 Endro~! - 5
-L'Œil du Cyclone - 5
-Nanatsu-iro REALiZE - 5
-RESTART POiNTER - 5
-Zombie Land Saga - 5
-WiSH VOYAGE - 5
-Joshikausei - 5
-Boku no Hero Academia 4 - 5
-Heya Camp△ - 5
-Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… - 5
-Boku no Tonari ni Ankoku Hakaishin ga Imasu. - 5
-Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note - 5
-FINAL FANTASY XV EPISODE ARDYN - PROLOGUE - 5
-Cider no You ni Kotoba ga Wakiagaru - 5
-Kawaki wo Ameku - 5
-shake - 5
-Jibaku Shounen Hanako-kun - 5
-Sora no Aosa wo Shiru Hito yo - 5
-Hi Score Girl II - 5
-More - 5
-A New Journey - 5
-Urashimasakatasen no Nichijou - 5
-Africa no Salaryman (TV) - 5
-Bananya: Fushigi na Nakamatachi - 5
-Another World - 5
-Housekishou Richard-shi no Nazo Kantei - 5
-Psychogram - 5
-Jujutsu Kaisen - 5
+Hi Score Girl: EXTRA STAGE - 5
+Kimi to, Nami ni Noretara - 5
+Dorohedoro - 5
+Dr. STONE - 5
+Fruits Basket: 1st Season - 5
+Star☆Twinkle Precure - 5
+Araburu Kisetsu no Otome-domo yo. - 5
+sister - 5
+Kyokou Suiri - 5
+Bokura Mada Underground - 5
+BEASTARS - 5
+Sayonara Gokko - 5
+Given - 5
+Fragtime - 5
+Chuubyou Gekihatsu Boy (TV) - 5
+Saezuru Tori wa Habatakanai: The clouds gather - 5
+Adachi to Shimamura - 5
+Non Non Biyori: Nonstop - 5
+Uchitama?! Uchi no Tama Shirimasenka? - 5
+GREAT PRETENDER - 5
+Deca-Dence - 5
+BNA - 5
+Gal to Kyouryuu - 5
+Given Movie - 5
+Saiki Kusuo no Ψ-nan: Ψ-shidou-hen - 5
+Umibe no Étranger - 5
+Kakushigoto - 5
+Breakers - 5
 Dr. STONE: STONE WARS - 5
-Kemono Jihen - 5
-Mr.AFFECTiON - 5
-Akudama Drive - 5
-Munou na Nana - 5
-Aggressive Retsuko Season 4 - 5
-Shingeki no Kyojin: The Final Season Part 2 - 5
-Mob Psycho 100 III - 5
-LUPIN ZERO - 5
-Tenkuu no Shiro Laputa - 4
-Strawberry Panic - 4
-Higurashi no Naku Koro ni - 4
-Kidou Keisatsu Patlabor - 4
-Code Geass: Hangyaku no Lelouch - 4
-Princess Nine: Kisaragi Joshikou Yakyuu-bu - 4
-Sayonara Zetsubou Sensei - 4
-Code Geass: Hangyaku no Lelouch R2 - 4
-REDLINE - 4
-Hotarubi no Mori e - 4
-Senki Zesshou Symphogear - 4
-Sakasama no Patema - 4
-JoJo no Kimyou na Bouken (TV) - 4
-Fate/kaleid liner Prisma☆Illya - 4
-Senki Zesshou Symphogear G - 4
-Samurai Flamenco - 4
-Fate/kaleid liner Prisma☆Illya 2wei! - 4
-Senki Zesshou Symphogear GX - 4
-Fate/stay night [Heaven's Feel] I. presage flower - 4
-Fate/kaleid liner Prisma☆Illya 2wei Herz! - 4
-Momokuri - 4
-Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai! - 4
-Kono Subarashii Sekai ni Shukufuku wo! - 4
-Nijiiro Days - 4
-Durarara!!x2 Ten: Onoroke Chakapoko - 4
-Re:Zero kara Hajimeru Isekai Seikatsu - 4
+Love Live! Nijigasaki Gakuen School Idol Doukoukai - 5
+Fugou Keiji: Balance:UNLIMITED - 5
+Nakitai Watashi wa Neko wo Kaburu - 5
+Kokoro Yohou - 5
+Bessatsu Olympia Kyklos - 5
+SK∞ - 5
+Kyokou Suiri Season 2 - 5
+Heikousen - 5
+Aoashi - 5
+Mou Ippon! - 5
+Kidou Senshi Gundam: Suisei no Majo - 5
+Suzume no Tojimari - 5
+Tensei Oujo to Tensai Reijou no Mahou Kakumei - 5
+Tsurune: Tsunagari no Issha - 5
+Romantic Killer - 5
+TEXHNOLYZE - 4
+Shin Seiki Evangelion - 4
+Mushishi - 4
+Kaze no Tani no Nausicaä - 4
+Suzumiya Haruhi no Yuuutsu - 4
+xxxHOLiC - 4
+Top wo Nerae! GunBuster - 4
+Kino no Tabi: Nanika wo Suru Tame ni -life goes on.- - 4
+Paprika - 4
+Kino no Tabi: the Beautiful World - Byouki no Kuni: For You - 4
+Baccano! Specials - 4
+Suzumiya Haruhi no Yuuutsu (2009) - 4
+Taishou Yakyuu Musume. - 4
+Summer Wars - 4
+Kimi ni Todoke - 4
+Atarashii Sekai - 4
+Angel Beats! - 4
+So Ra No Wo To - 4
+The TV Show - 4
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. - 4
+Yuru Yuri - 4
+Korekuraide Utau - 4
+Panty & Stocking in Sanitarybox - 4
+Inu x Boku SS - 4
+Yuru Yuri♪♪ - 4
+Inu x Boku SS Special - 4
+Girls und Panzer - 4
+Hanasaku Iroha: HOME SWEET HOME - 4
+Yama no Susume - 4
+Hataraku Maou-sama! - 4
+Shingeki no Kyojin - 4
+Transfer - 4
+Girls und Panzer Movie - 4
+Space☆Dandy - 4
+Baby Steps - 4
+Amagi Brilliant Park - 4
+Shigatsu wa Kimi no Uso - 4
+Shingeki no Kyojin 2 - 4
+Kokoro ga Sakebitagatterun da. - 4
+Akagami no Shirayuki-hime 2nd Season - 4
+Bungou Stray Dogs - 4
+3-gatsu no Lion - 4
+Sword Art Online: Ordinal Scale - 4
 Boku no Hero Academia - 4
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen - 4
-Kono Subarashii Sekai ni Shukufuku wo! 2 - 4
-Fate/stay night [Heaven's Feel] II. lost butterfly - 4
-BROTHERHOOD FINAL FANTASY XV - 4
-Kingsglaive Final Fantasy XV - 4
-One Punch Man 2 - 4
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - 4
-Sayonara no Asa ni Yakusoku no Hana wo Kazarou - 4
-Kaijuu no Kodomo - 4
-Shoujo☆Kageki Revue Starlight Specials - 4
-DIAMOND FUSION - 4
-DAYBREAK INTERLUDE - 4
-Leopard Eyes - 4
-Magia Record: Mahou Shoujo Madoka☆Magica Gaiden - 4
-Egao no Daika - 4
-Senryuu Shoujo - 4
-Tenki no Ko - 4
-Wu Shan Wu Xing: Zhuo Yuan Shen Huo - 4
-Princess Connect! Re:Dive - 4
-PSYCHO-PASS 3 - 4
-Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season - 4
-Aikatsu on Parade! - 4
-Ikebukuro West Gate Park - 4
-Runway de Waratte - 4
-Fruits Basket: 2nd Season - 4
-Appare-Ranman! - 4
-Majo no Tabitabi - 4
-Kami no Tou: Tower of God - 4
-Ura Sekai Picnic - 4
+Handa-kun - 4
+Kanamewo - 4
+Senki Zesshou Symphogear XV - 4
+Bungou Stray Dogs 2nd Season - 4
+Kobayashi-san Chi no Maidragon - 4
+Boku no Hero Academia 2 - 4
+Shelter - 4
+Tsurezure Children - 4
+Ani ni Tsukeru Kusuri wa Nai! - 4
+Yuru Camp△ - 4
+3-gatsu no Lion 2 - 4
+Slow Start - 4
+Shingeki no Kyojin 3 - 4
+SSSS.GRIDMAN - 4
+Karakai Jouzu no Takagi-san - 4
+Wotaku ni Koi wa Muzukashii - 4
+Girls und Panzer: Saishuushou 1 - 4
+Gaikotsu Shotenin Honda-san - 4
+Boku no Hero Academia 3 - 4
+Sword Art Online Alternative: Gun Gale Online - 4
+BANANA FISH - 4
+Boku no Hero Academia THE MOVIE: Futari no Hero - 4
+Hoozuki no Reitetsu 2: Part II - 4
+Hataraku Saibou - 4
+Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 4
+Penguin Highway - 4
+DOUBLE DECKER! Doug & Kirill - 4
+Aggressive Retsuko - 4
+Ani ni Tsukeru Kusuri wa Nai! 2 - 4
+Hibike! Euphonium: Chikai no Finale - 4
+MONOTONOUS PURGATORY - 4
+HIMITSU Spark - 4
+PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu - 4
+Susume, Karolina. - 4
+L'Œil du Cyclone - 4
+MONSTER GENERATiON - 4
+MEMORiES MELODiES - 4
+Zombie Land Saga - 4
+WiSH VOYAGE - 4
+Boku no Hero Academia 4 - 4
+Heya Camp△ - 4
+Kanojo wa Zombie - 4
+Shingeki no Kyojin 3 Part 2 - 4
+Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… - 4
+Boku no Tonari ni Ankoku Hakaishin ga Imasu. - 4
+PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ - 4
+Aggressive Retsuko Season 2 - 4
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 4
+Aggressive Retsuko: We Wish You A Metal Christmas - 4
+Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note - 4
+Dramaturgy - 4
+FINAL FANTASY XV EPISODE ARDYN - PROLOGUE - 4
+Cider no You ni Kotoba ga Wakiagaru - 4
+Kawaki wo Ameku - 4
+Soba e - 4
+shake - 4
+Jibaku Shounen Hanako-kun - 4
+Sora no Aosa wo Shiru Hito yo - 4
+Hi Score Girl II - 4
+Kimi ni Sekai - 4
+Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi - 4
+Ani ni Tsukeru Kusuri wa Nai! 3 - 4
+Shingeki no Kyojin: The Final Season - 4
+A New Journey - 4
+Aggressive Retsuko Season 3 - 4
+Africa no Salaryman (TV) - 4
+Bananya: Fushigi na Nakamatachi - 4
+BAUMKUCHEN END - 4
+Dolly - 4
+Psychogram - 4
+Natsunagu! - 4
+Jujutsu Kaisen - 4
+Josee to Tora to Sakanatachi - 4
+Ousama Ranking - 4
+Mr.AFFECTiON - 4
+Crescent rise - 4
+BURN THE WITCH - 4
+Ani ni Tsukeru Kusuri wa Nai! 4 - 4
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren - 4
-Horimiya - 4
-Dance Dance Danseur - 4
-Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ - 4
-Koori Zokusei Danshi to Cool na Douryou Joshi - 4
-Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai - 4
-Buddy Daddies - 4
+Wonder Egg Priority - 4
+Yakusoku - 4
+Mob Psycho 100 III - 4
+LUPIN ZERO - 4
+Tenkuu no Shiro Laputa - 3
+Strawberry Panic - 3
 Mind Game - 3
+Higurashi no Naku Koro ni - 3
+Kidou Keisatsu Patlabor - 3
+Code Geass: Hangyaku no Lelouch - 3
 Byousoku 5 Centimeter - 3
-Kanashimi no Belladonna - 3
+Princess Nine: Kisaragi Joshikou Yakyuu-bu - 3
+Sayonara Zetsubou Sensei - 3
+Code Geass: Hangyaku no Lelouch R2 - 3
 Bakemonogatari - 3
+REDLINE - 3
 Kizumonogatari I: Tekketsu-hen - 3
+Hotarubi no Mori e - 3
 Nisemonogatari - 3
+Senki Zesshou Symphogear - 3
 Accel World - 3
+Sakasama no Patema - 3
+JoJo no Kimyou na Bouken (TV) - 3
+Fate/kaleid liner Prisma☆Illya - 3
 Love Live! School idol project - 3
 Nekomonogatari (Kuro) - 3
+Senki Zesshou Symphogear G - 3
+Yasashii March: The Tender March - 3
 Monogatari Series: Second Season - 3
 Chuunibyou demo Koi ga Shitai! Ren - 3
 Love Live! School idol project 2nd Season - 3
+Samurai Flamenco - 3
+No Game No Life - 3
+Fate/kaleid liner Prisma☆Illya 2wei! - 3
+Senki Zesshou Symphogear GX - 3
 Sword Art Online II - 3
-Tokyo Ghoul - 3
 Love Live! The School Idol Movie - 3
+Fate/stay night [Heaven's Feel] I. presage flower - 3
+Fate/kaleid liner Prisma☆Illya 2wei Herz! - 3
 Plastic Memories - 3
+Momokuri - 3
+Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai! - 3
 Steins;Gate 0 - 3
-Manaria Friends - 3
+Kono Subarashii Sekai ni Shukufuku wo! - 3
+Nijiiro Days - 3
+Durarara!!x2 Ten: Onoroke Chakapoko - 3
+Re:Zero kara Hajimeru Isekai Seikatsu - 3
+Fate/kaleid liner Prisma☆Illya 3rei!! - 3
 Kizumonogatari II: Nekketsu-hen - 3
 Kizumonogatari III: Reiketsu-hen - 3
+Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen - 3
+Senki Zesshou Symphogear AXZ - 3
+Kono Subarashii Sekai ni Shukufuku wo! 2 - 3
+Fate/stay night [Heaven's Feel] II. lost butterfly - 3
+BROTHERHOOD FINAL FANTASY XV - 3
+Kingsglaive Final Fantasy XV - 3
+No Game No Life Zero - 3
+One Punch Man 2 - 3
 Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen - 3
+Re:CREATORS - 3
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - 3
+Sayonara no Asa ni Yakusoku no Hana wo Kazarou - 3
 Harukana Receive - 3
+22/7 - 3
 Sword Art Online: Alicization - 3
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II - 3
 Carole & Tuesday - 3
+Kishuku Gakkou no Juliet - 3
+Hitoribocchi no Marumaru Seikatsu - 3
+Nihonbashi Koukashita R Keikaku - 3
 Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu - 3
-Domestic na Kanojo - 3
+Kaijuu no Kodomo - 3
+Shoujo☆Kageki Revue Starlight Specials - 3
+Nanatsu-iro REALiZE - 3
+RESTART POiNTER - 3
+DIAMOND FUSION - 3
+DAYBREAK INTERLUDE - 3
+Leopard Eyes - 3
+Magia Record: Mahou Shoujo Madoka☆Magica Gaiden - 3
+Joshikausei - 3
+Egao no Daika - 3
 Lapis Re:LiGHTs - 3
-Midara na Ao-chan wa Benkyou ga Dekinai - 3
+Senryuu Shoujo - 3
+Tenki no Ko - 3
+Wu Shan Wu Xing: Zhuo Yuan Shen Huo - 3
+Princess Connect! Re:Dive - 3
 Koisuru Asteroid - 3
+PSYCHO-PASS 3 - 3
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season - 3
 Yesterday wo Utatte - 3
+More - 3
 Null Peta - 3
+Urashimasakatasen no Nichijou - 3
+Aikatsu on Parade! - 3
+Ikebukuro West Gate Park - 3
+Runway de Waratte - 3
+Another World - 3
+Fruits Basket: 2nd Season - 3
 Southpaw - 3
+Housekishou Richard-shi no Nazo Kantei - 3
+Appare-Ranman! - 3
+Majo no Tabitabi - 3
 PSYCHO-PASS 3: FIRST INSPECTOR - 3
+Kemono Jihen - 3
+Kami no Tou: Tower of God - 3
 THE GOD OF HIGH SCHOOL - 3
+Ura Sekai Picnic - 3
 Sol Levante - 3
-Kamisama ni Natta Hi - 3
+Akudama Drive - 3
+Munou na Nana - 3
+Horimiya - 3
+Aggressive Retsuko Season 4 - 3
+Shingeki no Kyojin: The Final Season Part 2 - 3
+Dance Dance Danseur - 3
+Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ - 3
 Onii-chan wa Oshimai! - 3
+Koori Zokusei Danshi to Cool na Douryou Joshi - 3
+Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai - 3
 Tomo-chan wa Onnanoko! - 3
+Buddy Daddies - 3
+Kanashimi no Belladonna - 2
 Nodame Cantabile Finale - 2
 FAIRY TAIL - 2
-Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi - 2
 FAIRY TAIL Movie: Houou no Miko - 2
 PSYCHO-PASS 2 - 2
+Tokyo Ghoul - 2
 FAIRY TAIL (2014) - 2
 Tokyo Ghoul √A - 2
-Aho-Girl - 2
+Manaria Friends - 2
 Koi to Uso - 2
 Isekai wa Smartphone to Tomo ni. - 2
 Hand Shakers: Go ago Go - 2
@@ -612,27 +606,32 @@ Ahiru no Sora - 2
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 2
 Bokura no Nanokakan Sensou - 2
 GODZILLA: Hoshi wo Kuu Mono - 2
+Domestic na Kanojo - 2
 PSYCHO-PASS Sinners of the System Case 2: First Guardian - 2
 Isekai Quartet - 2
-Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru - 2
+Midara na Ao-chan wa Benkyou ga Dekinai - 2
 HELLO WORLD - 2
 Sword Art Online: Alicization - War of Underworld - 2
 Isekai Quartet 2 - 2
 Koi to Producer: EVOL×LOVE - 2
 Kanojo, Okarishimasu - 2
 Sword Art Online: Alicization - War of Underworld Part 2 - 2
+Kamisama ni Natta Hi - 2
 Hametsu no Mars - 1
 Enbo - 1
+Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi - 1
 Plastic Nee-san - 1
 Sword Art Online - 1
 Utsu Musume Sayuri - 1
 Shitcom - 1
 Rakudai Kishi no Cavalry - 1
+Aho-Girl - 1
 DEVILMAN crybaby - 1
 Henkei Shoujo - 1
 Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru. - 1
 Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai - 1
 Assassins Pride - 1
+Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru - 1
 Infinite Dendrogram - 1
 Mushoku Tensei: Isekai Ittara Honki Dasu - 1
 Null Peta: Doki♥ Nullnull Petapeta! Mizugi Darake no Onee-chan Taikai! - 1

@@ -17,7 +17,7 @@ Chihayafuru 2 - 10
 Chihayafuru 3 - 10
 SHIROBAKO - 10
 LUPIN the Third: Mine Fujiko to Iu Onna - 10
-Mimi wo Sumaseba - 10
+Mimi wo Sumaseba - 9
 Otona Joshi no Anime Time - 9
 ARIA The ORIGINATION - 9
 Kuragehime - 9
@@ -49,7 +49,7 @@ Kill la Kill - 9
 Promare - 9
 Princess Tutu - 9
 Panty & Stocking with Garterbelt - 9
-Yuuri!!! on ICE - 9
+Yuuri!!! on ICE - 8
 Flip Flappers - 8
 Majo no Takkyuubin - 8
 Shoujo Shuumatsu Ryokou - 8
@@ -88,7 +88,7 @@ Jinrui wa Suitai Shimashita - 8
 Tanaka-kun wa Itsumo Kedaruge - 8
 4-nin wa Sorezore Uso wo Tsuku - 8
 Cross Game - 8
-Baja no Studio - 8
+Baja no Studio - 7
 Baja no Studio: Baja no Mita Umi - 7
 Major S6 - 7
 Major: Message - 7
@@ -133,7 +133,7 @@ Lupin III: THE FIRST - 7
 Misaki no Mayoiga - 7
 Nodame Cantabile - 7
 Gin no Saji 2 - 7
-BIRDIE WING: Golf Girls' Story - 7
+BIRDIE WING: Golf Girls' Story - 6
 Haikyuu!! TO THE TOP - 6
 Hana to Alice Satsujin Jiken - 6
 Lycoris Recoil - 6
@@ -143,6 +143,7 @@ SPY×FAMILY Part 2 - 6
 Paripi Koumei - 6
 Bocchi the Rock! - 6
 Yama no Susume: Third Season - 6
+Suzumiya Haruhi no Shoushitsu - 6
 Kaiba - 6
 Little Witch Academia (TV) - 6
 Youjo Shachou - 6
@@ -196,16 +197,15 @@ Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - 6
 One Punch Man - 6
 PUI PUI Molcar - 6
 Haikyuu!! Riku VS Kuu - 6
-Free! - 6
-Free!: Eternal Summer - 6
-Free!: Take Your Marks - 6
+Free! - 5
+Free!: Eternal Summer - 5
+Free!: Take Your Marks - 5
 Free!: Dive to the Future - 5
 Uchitama?! Uchi no Tama Shirimasenka? - 5
 Sarazanmai - 5
 Tensei Oujo to Tensai Reijou no Mahou Kakumei - 5
 Tsurune: Tsunagari no Issha - 5
 Kimi to, Nami ni Noretara - 5
-Suzumiya Haruhi no Shoushitsu - 5
 Nakitai Watashi wa Neko wo Kaburu - 5
 Chuunibyou demo Koi ga Shitai!: Take On Me - 5
 Chuunibyou demo Koi ga Shitai! - 5
@@ -243,7 +243,6 @@ SK∞ - 5
 Heikousen - 5
 DEATH NOTE - 5
 Hoozuki no Reitetsu - 5
-Umibe no Étranger - 5
 Ookami Kodomo no Ame to Yuki - 5
 Steins;Gate - 5
 NEW GAME! - 5
@@ -325,18 +324,18 @@ Tada-kun wa Koi wo Shinai - 5
 Princess Principal - 5
 Breakers - 5
 BEASTARS - 5
+Kokoro Yohou - 5
 Aoashi - 5
 Kotonoha no Niwa - 5
 Fruits Basket: 1st Season - 5
 Fragtime - 5
 sister - 5
 Irozuku Sekai no Ashita kara - 5
-Tsurezure Children - 5
 Endro~! - 5
 Gamers! - 5
-Hanasaku Iroha: HOME SWEET HOME - 5
 Violet Evergarden - 5
 Fune wo Amu - 5
+Heikousen - 5
 Mou Ippon! - 5
 RELEASE THE SPYCE - 5
 Mukougaoka Chisato wa Tada Mitsumeteita no Datta - 5
@@ -346,13 +345,12 @@ Cross Road - 5
 CRYSTAL CLEAR - 5
 FAKE!FAKE! - 5
 Bokura Mada Underground - 5
-BAUMKUCHEN END - 5
-Atarashii Sekai - 5
+BAUMKUCHEN END - 4
+Atarashii Sekai - 4
 Crescent rise - 4
 Dramaturgy - 4
 Shelter - 4
 Baccano! Specials - 4
-Heikousen - 4
 PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ - 4
 PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu - 4
 3-gatsu no Lion - 4
@@ -386,7 +384,6 @@ Kimi ni Sekai - 4
 Yakusoku - 4
 Kanojo wa Zombie - 4
 Susume, Karolina. - 4
-Kokoro Yohou - 4
 MONSTER GENERATiON - 4
 Korekuraide Utau - 4
 L'Œil du Cyclone - 4
@@ -426,7 +423,6 @@ SSSS.GRIDMAN - 4
 Hoozuki no Reitetsu 2: Part II - 4
 Slow Start - 4
 Hi Score Girl II - 4
-Zombie Land Saga - 4
 Sword Art Online: Ordinal Scale - 4
 LUPIN ZERO - 4
 Space☆Dandy - 4
