@@ -133,13 +133,13 @@ Inferno Cop - 7
 Lupin III: THE FIRST - 7
 Misaki no Mayoiga - 7
 Nodame Cantabile - 7
-Rolling☆Girls - 6
-Gin no Saji 2 - 6
-BIRDIE WING: Golf Girls' Story - 6
-Haikyuu!! TO THE TOP - 6
-Hana to Alice Satsujin Jiken - 6
-Lycoris Recoil - 6
-High☆Speed!: Free! Starting Days - 6
+Rolling☆Girls - 7
+Gin no Saji 2 - 7
+BIRDIE WING: Golf Girls' Story - 7
+Haikyuu!! TO THE TOP - 7
+Hana to Alice Satsujin Jiken - 7
+Lycoris Recoil - 7
+High☆Speed!: Free! Starting Days - 7
 SPY×FAMILY - 6
 SPY×FAMILY Part 2 - 6
 Paripi Koumei - 6
@@ -198,12 +198,12 @@ Cencoroll 2 - 6
 Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - 6
 One Punch Man - 6
 PUI PUI Molcar - 6
-Haikyuu!! Riku VS Kuu - 5
-Free! - 5
-Free!: Eternal Summer - 5
-Free!: Take Your Marks - 5
-Free!: Dive to the Future - 5
-Uchitama?! Uchi no Tama Shirimasenka? - 5
+Haikyuu!! Riku VS Kuu - 6
+Free! - 6
+Free!: Eternal Summer - 6
+Free!: Take Your Marks - 6
+Free!: Dive to the Future - 6
+Uchitama?! Uchi no Tama Shirimasenka? - 6
 Sarazanmai - 5
 Tensei Oujo to Tensai Reijou no Mahou Kakumei - 5
 Tsurune: Tsunagari no Issha - 5
@@ -346,32 +346,31 @@ Crazy for It - 5
 Cross Road - 5
 CRYSTAL CLEAR - 5
 FAKE!FAKE! - 5
-Bokura Mada Underground - 4
-BAUMKUCHEN END - 4
-Atarashii Sekai - 4
-Crescent rise - 4
-Dramaturgy - 4
-Shelter - 4
-Baccano! Specials - 4
-PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ - 4
-PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu - 4
-3-gatsu no Lion - 4
-Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note - 4
-MEMORiES MELODiES - 4
-Natsunagu! - 4
-Top wo Nerae! GunBuster - 4
-Cider no You ni Kotoba ga Wakiagaru - 4
-xxxHOLiC - 4
-Yuru Camp△ - 4
-Yuru Yuri - 4
-Yuru Yuri♪♪ - 4
-Boku no Hero Academia 2 - 4
-Taishou Yakyuu Musume. - 4
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 4
-Sword Art Online Alternative: Gun Gale Online - 4
-Josee to Tora to Sakanatachi - 4
-Summer Wars - 4
-Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 4
+Bokura Mada Underground - 5
+BAUMKUCHEN END - 5
+Atarashii Sekai - 5
+Crescent rise - 5
+Dramaturgy - 5
+Shelter - 5
+Baccano! Specials - 5
+PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ - 5
+PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu - 5
+3-gatsu no Lion - 5
+Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note - 5
+MEMORiES MELODiES - 5
+Natsunagu! - 5
+Top wo Nerae! GunBuster - 5
+Cider no You ni Kotoba ga Wakiagaru - 5
+xxxHOLiC - 5
+Yuru Camp△ - 5
+Yuru Yuri - 5
+Yuru Yuri♪♪ - 5
+Boku no Hero Academia 2 - 5
+Taishou Yakyuu Musume. - 5
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 5
+Sword Art Online Alternative: Gun Gale Online - 5
+Josee to Tora to Sakanatachi - 5
+Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 5
 Wonder Egg Priority - 4
 Kimi ni Todoke - 4
 Kokoro ga Sakebitagatterun da. - 4
@@ -475,25 +474,25 @@ Kawaki wo Ameku - 4
 Mr.AFFECTiON - 4
 A New Journey - 4
 WiSH VOYAGE - 4
-RESTART POiNTER - 3
-Yasashii March: The Tender March - 3
-Nihonbashi Koukashita R Keikaku - 3
-Nanatsu-iro REALiZE - 3
-More - 3
-Housekishou Richard-shi no Nazo Kantei - 3
-Kishuku Gakkou no Juliet - 3
-Senki Zesshou Symphogear AXZ - 3
-22/7 - 3
-Hitoribocchi no Marumaru Seikatsu - 3
-Munou na Nana - 3
-Kemono Jihen - 3
-Re:CREATORS - 3
-Fate/kaleid liner Prisma☆Illya 3rei!! - 3
-Urashimasakatasen no Nichijou - 3
-Joshikausei - 3
-No Game No Life - 3
-No Game No Life Zero - 3
-Another World - 3
+RESTART POiNTER - 4
+Yasashii March: The Tender March - 4
+Nihonbashi Koukashita R Keikaku - 4
+Nanatsu-iro REALiZE - 4
+More - 4
+Housekishou Richard-shi no Nazo Kantei - 4
+Kishuku Gakkou no Juliet - 4
+Senki Zesshou Symphogear AXZ - 4
+22/7 - 4
+Hitoribocchi no Marumaru Seikatsu - 4
+Munou na Nana - 4
+Kemono Jihen - 4
+Re:CREATORS - 4
+Fate/kaleid liner Prisma☆Illya 3rei!! - 4
+Urashimasakatasen no Nichijou - 4
+Joshikausei - 4
+No Game No Life - 4
+No Game No Life Zero - 4
+Another World - 4
 Akudama Drive - 3
 Shingeki no Kyojin: The Final Season Part 2 - 3
 Aggressive Retsuko Season 4 - 3
