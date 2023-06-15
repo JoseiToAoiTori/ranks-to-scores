@@ -371,7 +371,7 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 5
 Sword Art Online Alternative: Gun Gale Online - 5
 Josee to Tora to Sakanatachi - 5
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 5
-Wonder Egg Priority - 4
+Wonder Egg Priority - 5
 Kimi ni Todoke - 4
 Kokoro ga Sakebitagatterun da. - 4
 Shingeki no Kyojin 3 Part 2 - 4
@@ -493,7 +493,7 @@ Joshikausei - 4
 No Game No Life - 4
 No Game No Life Zero - 4
 Another World - 4
-Akudama Drive - 3
+Akudama Drive - 4
 Shingeki no Kyojin: The Final Season Part 2 - 3
 Aggressive Retsuko Season 4 - 3
 Tenkuu no Shiro Laputa - 3
@@ -536,6 +536,7 @@ Princess Nine: Kisaragi Joshikou Yakyuu-bu - 3
 Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen - 3
 Higurashi no Naku Koro ni - 3
 Runway de Waratte - 3
+Ousama Ranking: Yuuki no Takarabako - 3
 Aikatsu on Parade! - 3
 Re:Zero kara Hajimeru Isekai Seikatsu - 3
 Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season - 3
