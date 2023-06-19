@@ -12,9 +12,9 @@ Natsume Yuujinchou San - 10
 Chihayafuru - 10
 Natsume Yuujinchou Shi - 10
 Hyouka - 10
-LUPIN the Third: Mine Fujiko to Iu Onna - 10
 Chihayafuru 2 - 10
 SHIROBAKO - 10
+Natsume Yuujinchou Go - 10
 Liz to Aoi Tori - 10
 Chihayafuru 3 - 10
 Paradise Kiss - 9
@@ -31,11 +31,11 @@ Tengen Toppa Gurren Lagann - 9
 ARIA The ORIGINATION - 9
 Kuragehime - 9
 Hourou Musuko - 9
-Panty & Stocking with Garterbelt - 9
 Usagi Drop - 9
 Nichijou - 9
 Otona Joshi no Anime Time - 9
 Mawaru Penguindrum - 9
+LUPIN the Third: Mine Fujiko to Iu Onna - 9
 PSYCHO-PASS - 9
 Tamako Market - 9
 Kill la Kill - 9
@@ -61,6 +61,7 @@ Lupin III: Cagliostro no Shiro - 8
 ARIA The OVA: ARIETTA - 8
 Michiko to Hatchin - 8
 Heartcatch Precure! - 8
+Panty & Stocking with Garterbelt - 8
 Jinrui wa Suitai Shimashita - 8
 Sakamichi no Apollon - 8
 Kono Sekai no Katasumi ni - 8
@@ -87,7 +88,6 @@ Shoujo☆Kageki Revue Starlight Movie - 8
 Haikyuu!! TO THE TOP 2 - 8
 Yama no Susume: Next Summit - 8
 Yojouhan Time Machine Blues - 8
-4-nin wa Sorezore Uso wo Tsuku - 8
 Samurai Champloo - 7
 Tenshi no Tamago - 7
 Kidou Keisatsu Patlabor 2: the Movie - 7
@@ -113,7 +113,6 @@ Hana to Alice Satsujin Jiken - 7
 Koe no Katachi - 7
 Akagami no Shirayuki-hime - 7
 Doukyuusei - 7
-High☆Speed!: Free! Starting Days - 7
 Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page - 7
 Oshiete! Galko-chan - 7
 Kimi no Na wa. - 7
@@ -140,6 +139,7 @@ Misaki no Mayoiga - 7
 Sonny Boy - 7
 BIRDIE WING: Golf Girls' Story - 7
 Lycoris Recoil - 7
+4-nin wa Sorezore Uso wo Tsuku - 7
 Sen to Chihiro no Kamikakushi - 6
 Cardcaptor Sakura Movie - 6
 Major S2 - 6
@@ -164,6 +164,7 @@ Free!: Eternal Summer - 6
 Non Non Biyori: Repeat - 6
 Ore Monogatari!! - 6
 One Punch Man - 6
+High☆Speed!: Free! Starting Days - 6
 Mob Psycho 100 - 6
 Saiki Kusuo no Ψ-nan - 6
 Little Witch Academia (TV) - 6
@@ -186,7 +187,6 @@ Machikado Mazoku - 6
 Mairimashita! Iruma-kun - 6
 Somali to Mori no Kamisama - 6
 Android Girl - 6
-Uchitama?! Uchi no Tama Shirimasenka? - 6
 Vlad Love - 6
 Yamiyo - 6
 Maou-jou de Oyasumi - 6
@@ -338,6 +338,7 @@ Chuubyou Gekihatsu Boy (TV) - 5
 Saezuru Tori wa Habatakanai: The clouds gather - 5
 Adachi to Shimamura - 5
 Non Non Biyori: Nonstop - 5
+Uchitama?! Uchi no Tama Shirimasenka? - 5
 GREAT PRETENDER - 5
 Deca-Dence - 5
 BNA - 5
@@ -358,7 +359,6 @@ Nakitai Watashi wa Neko wo Kaburu - 5
 Kokoro Yohou - 5
 Bessatsu Olympia Kyklos - 5
 SK∞ - 5
-Wonder Egg Priority - 5
 Kyokou Suiri Season 2 - 5
 Heikousen - 5
 Aoashi - 5
@@ -487,6 +487,7 @@ BURN THE WITCH - 4
 Munou na Nana - 4
 Ani ni Tsukeru Kusuri wa Nai! 4 - 4
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren - 4
+Wonder Egg Priority - 4
 Yakusoku - 4
 Mob Psycho 100 III - 4
 LUPIN ZERO - 4
