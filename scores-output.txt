@@ -17,7 +17,7 @@ Chihayafuru - 10
 Chihayafuru 2 - 10
 Chihayafuru 3 - 10
 SHIROBAKO - 10
-LUPIN the Third: Mine Fujiko to Iu Onna - 9
+LUPIN the Third: Mine Fujiko to Iu Onna - 10
 Mimi wo Sumaseba - 9
 Otona Joshi no Anime Time - 9
 ARIA The ORIGINATION - 9
@@ -49,7 +49,7 @@ Shoujo Kakumei Utena - 9
 Kill la Kill - 9
 Promare - 9
 Princess Tutu - 9
-Panty & Stocking with Garterbelt - 8
+Panty & Stocking with Garterbelt - 9
 Yuuri!!! on ICE - 8
 Flip Flappers - 8
 Majo no Takkyuubin - 8
@@ -88,7 +88,7 @@ Sakamichi no Apollon - 8
 Go! Princess Precure - 8
 Jinrui wa Suitai Shimashita - 8
 Tanaka-kun wa Itsumo Kedaruge - 8
-4-nin wa Sorezore Uso wo Tsuku - 7
+4-nin wa Sorezore Uso wo Tsuku - 8
 Cross Game - 7
 Baja no Studio - 7
 Baja no Studio: Baja no Mita Umi - 7
@@ -140,7 +140,7 @@ BIRDIE WING: Golf Girls' Story - 7
 Haikyuu!! TO THE TOP - 7
 Hana to Alice Satsujin Jiken - 7
 Lycoris Recoil - 7
-High☆Speed!: Free! Starting Days - 6
+High☆Speed!: Free! Starting Days - 7
 SPY×FAMILY - 6
 SPY×FAMILY Part 2 - 6
 Paripi Koumei - 6
@@ -204,8 +204,8 @@ Free! - 6
 Free!: Eternal Summer - 6
 Free!: Take Your Marks - 6
 Free!: Dive to the Future - 6
-Uchitama?! Uchi no Tama Shirimasenka? - 5
-Sarazanmai - 5
+Uchitama?! Uchi no Tama Shirimasenka? - 6
+Sarazanmai - 6
 Tensei Oujo to Tensai Reijou no Mahou Kakumei - 5
 Tsurune: Tsunagari no Issha - 5
 Kimi to, Nami ni Noretara - 5
@@ -372,8 +372,8 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. - 5
 Sword Art Online Alternative: Gun Gale Online - 5
 Josee to Tora to Sakanatachi - 5
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! - 5
-Wonder Egg Priority - 4
-Kimi ni Todoke - 4
+Wonder Egg Priority - 5
+Kimi ni Todoke - 5
 Kokoro ga Sakebitagatterun da. - 4
 Shingeki no Kyojin 3 Part 2 - 4
 Shingeki no Kyojin 3 - 4
@@ -495,8 +495,8 @@ No Game No Life - 4
 No Game No Life Zero - 4
 Another World - 4
 Akudama Drive - 4
-Shingeki no Kyojin: The Final Season Part 2 - 3
-Aggressive Retsuko Season 4 - 3
+Shingeki no Kyojin: The Final Season Part 2 - 4
+Aggressive Retsuko Season 4 - 4
 Tenkuu no Shiro Laputa - 3
 Hotarubi no Mori e - 3
 Tenki no Ko - 3
@@ -507,6 +507,7 @@ Sayonara Zetsubou Sensei - 3
 Kono Subarashii Sekai ni Shukufuku wo! - 3
 Kono Subarashii Sekai ni Shukufuku wo! 2 - 3
 JoJo no Kimyou na Bouken (TV) - 3
+Skip to Loafer - 3
 Magia Record: Mahou Shoujo Madoka☆Magica Gaiden - 3
 Shoujo☆Kageki Revue Starlight Specials - 3
 Kidou Keisatsu Patlabor - 3
@@ -570,6 +571,7 @@ PSYCHO-PASS 3: FIRST INSPECTOR - 3
 Bakemonogatari - 3
 Byousoku 5 Centimeter - 3
 Sol Levante - 3
+Kubo-san wa Mob wo Yurusanai - 3
 Lapis Re:LiGHTs - 3
 Accel World - 3
 Southpaw - 3
