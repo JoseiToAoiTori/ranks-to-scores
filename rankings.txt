@@ -438,6 +438,7 @@ Shingeki no Kyojin 3
 Shingeki no Kyojin 2
 Shingeki no Kyojin
 Shingeki no Kyojin: The Final Season
+Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen
 Girls und Panzer
 Girls und Panzer Movie
 Girls und Panzer: Saishuushou 1
@@ -595,6 +596,7 @@ Null Peta
 Steins;Gate 0
 Koisuru Asteroid
 Harukana Receive
+[Oshi no Ko]
 Sword Art Online II
 Sword Art Online: Alicization
 Nekomonogatari (Kuro)

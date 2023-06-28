@@ -45,6 +45,7 @@ Ping Pong THE ANIMATION - 9
 Barakamon - 9
 Hibike! Euphonium - 9
 Shouwa Genroku Rakugo Shinjuu - 9
+Yuuri!!! on ICE - 9
 Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen - 9
 Promare - 9
 Eiga Daisuki Pompo-san - 9
@@ -61,6 +62,7 @@ ARIA The NATURAL - 8
 Lupin III: Cagliostro no Shiro - 8
 ARIA The OVA: ARIETTA - 8
 Michiko to Hatchin - 8
+Cross Game - 8
 Heartcatch Precure! - 8
 Jinrui wa Suitai Shimashita - 8
 Sakamichi no Apollon - 8
@@ -76,7 +78,6 @@ Hibike! Euphonium 2 - 8
 Tanaka-kun wa Itsumo Kedaruge - 8
 Uchuu Patrol Luluco - 8
 Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou - 8
-Yuuri!!! on ICE - 8
 Flip Flappers - 8
 Yoru wa Mijikashi Arukeyo Otome - 8
 Tsuki ga Kirei - 8
@@ -96,7 +97,6 @@ Ginga Tetsudou no Yoru - 7
 Nodame Cantabile - 7
 Baccano! - 7
 Tokyo Marble Chocolate - 7
-Cross Game - 7
 Sasameki Koto - 7
 Major S6 - 7
 Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!? - 7
@@ -140,6 +140,7 @@ GOTCHA! - 7
 Misaki no Mayoiga - 7
 Sonny Boy - 7
 BIRDIE WING: Golf Girls' Story - 7
+SPY×FAMILY - 7
 Lycoris Recoil - 7
 Sen to Chihiro no Kamikakushi - 6
 Cardcaptor Sakura Movie - 6
@@ -199,18 +200,20 @@ Tian Guan Ci Fu - 6
 Hypnosis Mic: Division Rap Battle - Rhyme Anima - 6
 Taisou Zamurai - 6
 Kaguya-sama wa Kokurasetai: Ultra Romantic - 6
+Kyokou Suiri Season 2 - 6
 Youjo Shachou - 6
 PUI PUI Molcar - 6
 Bocchi the Rock! - 6
-SPY×FAMILY - 6
 Paripi Koumei - 6
 SPY×FAMILY Part 2 - 6
+Tsurune: Tsunagari no Issha - 6
 Aggressive Retsuko Season 5 - 6
 TRIGUN - 5
 GHOST IN THE SHELL: Koukaku Kidoutai - 5
 AKIRA - 5
 Mousou Dairinin - 5
 Bishoujo Senshi Sailor Moon - 5
+Kaze no Tani no Nausicaä - 5
 xxxHOLiC - 5
 Simoun - 5
 Top wo Nerae! GunBuster - 5
@@ -230,6 +233,7 @@ Lucky☆Star OVA - 5
 Nodame Cantabile: Paris-hen - 5
 One Outs - 5
 Taishou Yakyuu Musume. - 5
+Summer Wars - 5
 Kimi ni Todoke - 5
 Atarashii Sekai - 5
 Working!! - 5
@@ -239,6 +243,7 @@ Mahou Shoujo Madoka☆Magica - 5
 Fate/Zero - 5
 Yuru Yuri - 5
 Working'!! - 5
+Korekuraide Utau - 5
 Fate/Zero 2nd Season - 5
 Kokoro Connect - 5
 Major: World Series - 5
@@ -268,6 +273,7 @@ ARIA The AVVENIRE - 5
 3-gatsu no Lion - 5
 Working!!!: Lord of the Takanashi - 5
 NEW GAME! - 5
+Senki Zesshou Symphogear XV - 5
 Durarara!!x2 Ketsu: DuFuFuFu!! - 5
 Fune wo Amu - 5
 Bananya - 5
@@ -282,6 +288,7 @@ Fate/Grand Order: First Order - 5
 Cardcaptor Sakura: Clear Card-hen - 5
 Fate/Apocrypha - 5
 Yoake Tsugeru Lu no Uta - 5
+Tsurezure Children - 5
 NEW GAME!! - 5
 Mitsuboshi Colors - 5
 Yuru Camp△ - 5
@@ -315,10 +322,14 @@ SHIROBAKO Movie - 5
 Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen - 5
 PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu - 5
 Golden Kamuy 2nd Season - 5
+Susume, Karolina. - 5
 IDOLiSH7: Second BEAT! - 5
 Endro~! - 5
+L'Œil du Cyclone - 5
+MONSTER GENERATiON - 5
 MEMORiES MELODiES - 5
 Hi Score Girl: EXTRA STAGE - 5
+Kanojo wa Zombie - 5
 PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ - 5
 Kimi to, Nami ni Noretara - 5
 Dorohedoro - 5
@@ -335,10 +346,12 @@ Bokura Mada Underground - 5
 Cider no You ni Kotoba ga Wakiagaru - 5
 BEASTARS - 5
 Sayonara Gokko - 5
+Soba e - 5
 Given - 5
 Fragtime - 5
 Chuubyou Gekihatsu Boy (TV) - 5
 Saezuru Tori wa Habatakanai: The clouds gather - 5
+Kimi ni Sekai - 5
 Adachi to Shimamura - 5
 Non Non Biyori: Nonstop - 5
 GREAT PRETENDER - 5
@@ -347,11 +360,13 @@ BNA - 5
 Gal to Kyouryuu - 5
 Given Movie - 5
 BAUMKUCHEN END - 5
+Dolly - 5
 Saiki Kusuo no Ψ-nan: Ψ-shidou-hen - 5
 Umibe no Étranger - 5
 Kakushigoto - 5
 Natsunagu! - 5
 Josee to Tora to Sakanatachi - 5
+Ousama Ranking - 5
 Breakers - 5
 Dr. STONE: STONE WARS - 5
 Love Live! Nijigasaki Gakuen School Idol Doukoukai - 5
@@ -362,31 +377,30 @@ Kokoro Yohou - 5
 Bessatsu Olympia Kyklos - 5
 SK∞ - 5
 Wonder Egg Priority - 5
-Kyokou Suiri Season 2 - 5
+Yakusoku - 5
 Heikousen - 5
 Aoashi - 5
 Mou Ippon! - 5
 Kidou Senshi Gundam: Suisei no Majo - 5
 Suzume no Tojimari - 5
+BIRDIE WING: Golf Girls' Story Season 2 - 5
 Tensei Oujo to Tensai Reijou no Mahou Kakumei - 5
-Tsurune: Tsunagari no Issha - 5
 Romantic Killer - 5
+Yamada-kun to Lv999 no Koi wo Suru - 5
+Tengoku Daimakyou - 5
 TEXHNOLYZE - 4
 Shin Seiki Evangelion - 4
 Mushishi - 4
 Tenkuu no Shiro Laputa - 4
-Kaze no Tani no Nausicaä - 4
 Suzumiya Haruhi no Yuuutsu - 4
 Kino no Tabi: Nanika wo Suru Tame ni -life goes on.- - 4
 Paprika - 4
 Kino no Tabi: the Beautiful World - Byouki no Kuni: For You - 4
 Suzumiya Haruhi no Yuuutsu (2009) - 4
-Summer Wars - 4
 Angel Beats! - 4
 So Ra No Wo To - 4
 The TV Show - 4
 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. - 4
-Korekuraide Utau - 4
 Panty & Stocking in Sanitarybox - 4
 Inu x Boku SS - 4
 Inu x Boku SS Special - 4
@@ -412,12 +426,10 @@ Boku no Hero Academia - 4
 Handa-kun - 4
 Kanamewo - 4
 Senki Zesshou Symphogear AXZ - 4
-Senki Zesshou Symphogear XV - 4
 Bungou Stray Dogs 2nd Season - 4
 Kobayashi-san Chi no Maidragon - 4
 No Game No Life Zero - 4
 Re:CREATORS - 4
-Tsurezure Children - 4
 Ani ni Tsukeru Kusuri wa Nai! - 4
 3-gatsu no Lion 2 - 4
 Slow Start - 4
@@ -443,17 +455,13 @@ Hibike! Euphonium: Chikai no Finale - 4
 Nihonbashi Koukashita R Keikaku - 4
 MONOTONOUS PURGATORY - 4
 HIMITSU Spark - 4
-Susume, Karolina. - 4
-L'Œil du Cyclone - 4
 Nanatsu-iro REALiZE - 4
 RESTART POiNTER - 4
-MONSTER GENERATiON - 4
 Zombie Land Saga - 4
 WiSH VOYAGE - 4
 Joshikausei - 4
 Boku no Hero Academia 4 - 4
 Heya Camp△ - 4
-Kanojo wa Zombie - 4
 Shingeki no Kyojin 3 Part 2 - 4
 Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… - 4
 Boku no Tonari ni Ankoku Hakaishin ga Imasu. - 4
@@ -461,12 +469,10 @@ Aggressive Retsuko Season 2 - 4
 Aggressive Retsuko: We Wish You A Metal Christmas - 4
 FINAL FANTASY XV EPISODE ARDYN - PROLOGUE - 4
 Kawaki wo Ameku - 4
-Soba e - 4
 shake - 4
 Jibaku Shounen Hanako-kun - 4
 Sora no Aosa wo Shiru Hito yo - 4
 Hi Score Girl II - 4
-Kimi ni Sekai - 4
 More - 4
 Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi - 4
 Ani ni Tsukeru Kusuri wa Nai! 3 - 4
@@ -478,10 +484,8 @@ Africa no Salaryman (TV) - 4
 Bananya: Fushigi na Nakamatachi - 4
 Another World - 4
 Housekishou Richard-shi no Nazo Kantei - 4
-Dolly - 4
 Psychogram - 4
 Jujutsu Kaisen - 4
-Ousama Ranking - 4
 Kemono Jihen - 4
 Mr.AFFECTiON - 4
 Akudama Drive - 4
@@ -489,11 +493,12 @@ BURN THE WITCH - 4
 Munou na Nana - 4
 Ani ni Tsukeru Kusuri wa Nai! 4 - 4
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren - 4
-Yakusoku - 4
-Aggressive Retsuko Season 4 - 4
 Shingeki no Kyojin: The Final Season Part 2 - 4
+Mahou Shoujo Magical Destroyers - 4
 Mob Psycho 100 III - 4
+Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen - 4
 LUPIN ZERO - 4
+World Dai Star - 4
 Strawberry Panic - 3
 Mind Game - 3
 Higurashi no Naku Koro ni - 3
@@ -549,7 +554,6 @@ Harukana Receive - 3
 Sword Art Online: Alicization - 3
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II - 3
 Carole & Tuesday - 3
-Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu - 3
 Kaijuu no Kodomo - 3
 Shoujo☆Kageki Revue Starlight Specials - 3
 DIAMOND FUSION - 3
@@ -565,7 +569,6 @@ Princess Connect! Re:Dive - 3
 Koisuru Asteroid - 3
 PSYCHO-PASS 3 - 3
 Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season - 3
-Yesterday wo Utatte - 3
 Null Peta - 3
 Aikatsu on Parade! - 3
 Ikebukuro West Gate Park - 3
@@ -580,12 +583,15 @@ THE GOD OF HIGH SCHOOL - 3
 Ura Sekai Picnic - 3
 Sol Levante - 3
 Horimiya - 3
+Aggressive Retsuko Season 4 - 3
 Dance Dance Danseur - 3
 Skip to Loafer - 3
 Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ - 3
 Onii-chan wa Oshimai! - 3
 Kubo-san wa Mob wo Yurusanai - 3
+Watashi no Yuri wa Oshigoto desu! - 3
 Kono Subarashii Sekai ni Bakuen wo! - 3
+[Oshi no Ko] - 3
 Koori Zokusei Danshi to Cool na Douryou Joshi - 3
 Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai - 3
 Tomo-chan wa Onnanoko! - 3
@@ -609,15 +615,16 @@ PERSONA5 the Animation - 2
 Tokyo Ghoul:re - 2
 Asobi Asobase - 2
 Ahiru no Sora - 2
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 2
 Bokura no Nanokakan Sensou - 2
 GODZILLA: Hoshi wo Kuu Mono - 2
+Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu - 2
 Domestic na Kanojo - 2
 PSYCHO-PASS Sinners of the System Case 2: First Guardian - 2
 Isekai Quartet - 2
 Midara na Ao-chan wa Benkyou ga Dekinai - 2
 HELLO WORLD - 2
 Sword Art Online: Alicization - War of Underworld - 2
+Yesterday wo Utatte - 2
 Isekai Quartet 2 - 2
 Koi to Producer: EVOL×LOVE - 2
 Kanojo, Okarishimasu - 2
@@ -634,6 +641,7 @@ Rakudai Kishi no Cavalry - 1
 Aho-Girl - 1
 DEVILMAN crybaby - 1
 Henkei Shoujo - 1
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 1
 Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru. - 1
 Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai - 1
 Assassins Pride - 1
