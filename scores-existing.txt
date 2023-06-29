@@ -213,7 +213,6 @@ GHOST IN THE SHELL: Koukaku Kidoutai - 5
 AKIRA - 5
 Mousou Dairinin - 5
 Bishoujo Senshi Sailor Moon - 5
-Kaze no Tani no Nausicaä - 5
 xxxHOLiC - 5
 Simoun - 5
 Top wo Nerae! GunBuster - 5
@@ -383,6 +382,7 @@ Aoashi - 5
 Mou Ippon! - 5
 Kidou Senshi Gundam: Suisei no Majo - 5
 Suzume no Tojimari - 5
+THE iDOLM@STER Cinderella Girls: U149 - 5
 BIRDIE WING: Golf Girls' Story Season 2 - 5
 Tensei Oujo to Tensai Reijou no Mahou Kakumei - 5
 Romantic Killer - 5
@@ -392,6 +392,7 @@ TEXHNOLYZE - 4
 Shin Seiki Evangelion - 4
 Mushishi - 4
 Tenkuu no Shiro Laputa - 4
+Kaze no Tani no Nausicaä - 4
 Suzumiya Haruhi no Yuuutsu - 4
 Kino no Tabi: Nanika wo Suru Tame ni -life goes on.- - 4
 Paprika - 4
