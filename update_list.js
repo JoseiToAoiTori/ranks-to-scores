@@ -48,6 +48,7 @@ async function getList() {
     const animeArr = [];
 
     while (hasNextPage) {
+        console.log(page);
         const response = await (await superagent.post('https://graphql.anilist.co').send({query: dump_query, variables: {name: config.username, page}})).body.data;
         const mediaList = response.Page.mediaList;
         for (const media of mediaList) {

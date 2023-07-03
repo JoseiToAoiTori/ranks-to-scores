@@ -28,6 +28,7 @@ async function getList() {
     const animeArr = [];
 
     while (hasNextPage) {
+        console.log(page);
         const response = await (await superagent.post('https://graphql.anilist.co').send({query, variables: {name: config.username, page}})).body.data;
         const mediaList = response.Page.mediaList;
         for (const media of mediaList) {
@@ -40,7 +41,6 @@ async function getList() {
     }
 
     const uniqueArr = [...new Set(animeArr)];
-    console.log(uniqueArr.length);
 
     fs.writeFileSync('./scores-existing.txt', uniqueArr.join('\n'), 'utf-8');
 }

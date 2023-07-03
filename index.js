@@ -27,7 +27,7 @@ function groupByPercentage(anime, percentages) {
             scores.push(10 - i);
         }
     }
-    console.log(scores.reduce((partialSum, a) => partialSum + a, 0) / scores.length);
+    // console.log(scores.reduce((partialSum, a) => partialSum + a, 0) / scores.length);
     fs.writeFileSync('./scores-output.txt', newPlainText, 'utf-8');
 }
 
