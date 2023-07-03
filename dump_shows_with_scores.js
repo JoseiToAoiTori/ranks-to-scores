@@ -45,4 +45,8 @@ async function getList() {
     fs.writeFileSync('./scores-existing.txt', uniqueArr.join('\n'), 'utf-8');
 }
 
+module.exports.init = async function () {
+  await getList();
+}
+
 getList();

@@ -31,4 +31,8 @@ function groupByPercentage(anime, percentages) {
     fs.writeFileSync('./scores-output.txt', newPlainText, 'utf-8');
 }
 
+module.exports.init = function () {
+    groupByPercentage(anime, config.percentages);
+}
+
 groupByPercentage(anime, config.percentages);
