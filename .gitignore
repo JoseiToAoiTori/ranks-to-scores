@@ -1,2 +1,6 @@
 node_modules
 .env
+
+# Generated files
+scores-existing.txt
+scores-output.txt

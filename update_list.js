@@ -72,6 +72,8 @@ async function updateList() {
 
     const comparison = compare_scores.returnComparison();
 
+    console.log(comparison);
+
     for (const change of comparison) {
         const [show, score] = change.split(' - ');
         const foundItem = list.find(item => item.name === show);
