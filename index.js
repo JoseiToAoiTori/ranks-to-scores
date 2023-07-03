@@ -35,4 +35,4 @@ module.exports.init = function () {
     groupByPercentage(anime, config.percentages);
 }
 
-groupByPercentage(anime, config.percentages);
+// groupByPercentage(anime, config.percentages);

@@ -1,5 +1,4 @@
 const superagent = require('superagent');
-const fs = require('fs');
 const config = require('./config.json');
 
 const dump_shows_with_scores = require('./dump_shows_with_scores');
@@ -37,10 +36,6 @@ const mutation = `mutation ($id: Int, $score: Float) {
     }
   }
 `;
-
-function readRankings() {
-    return fs.readFileSync('./scores-output.txt', 'utf-8').split(/\r?\n/).filter(Boolean);
-}
 
 async function getList() {
     let hasNextPage = true;

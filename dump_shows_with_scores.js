@@ -48,5 +48,3 @@ async function getList() {
 module.exports.init = async function () {
   await getList();
 }
-
-getList();
