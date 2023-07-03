@@ -80,6 +80,7 @@ async function updateList() {
         const [show, score] = change.split(' - ');
         const foundItem = list.find(item => item.name === show);
         await makeMutationRequest(foundItem.id, score);
+        await new Promise(r => setTimeout(r, 1000));
     }
 }
 
