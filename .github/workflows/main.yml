@@ -12,4 +12,4 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Run Job
-        run: node update_list
+        run: ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} node update_list
