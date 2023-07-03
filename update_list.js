@@ -3,7 +3,6 @@ const config = require('./config.json');
 
 const dump_shows_with_scores = require('./dump_shows_with_scores');
 const index = require('./index');
-const compare_scores = require('./compare_scores');
 
 require('dotenv').config();
 
@@ -69,7 +68,7 @@ async function updateList() {
     const list = await getList();
     index.init();
     await dump_shows_with_scores.init();
-
+    const compare_scores = require('./compare_scores');
     const comparison = compare_scores.returnComparison();
 
     console.log(comparison);
