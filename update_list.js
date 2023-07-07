@@ -46,9 +46,7 @@ async function getList() {
         const response = await (await superagent.post('https://graphql.anilist.co').send({query: dump_query, variables: {name: config.username, page}})).body.data;
         const mediaList = response.Page.mediaList;
         for (const media of mediaList) {
-            if (media.score > 0) {
-                animeArr.push({id: media.id, name: media.media.title.romaji});
-            }
+          animeArr.push({id: media.id, name: media.media.title.romaji});
         }
         page++;
         hasNextPage = response.Page.pageInfo.hasNextPage
