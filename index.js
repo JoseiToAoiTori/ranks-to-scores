@@ -23,7 +23,7 @@ function groupByPercentage(anime, percentages) {
     const scores = [];
     for (let i = 0;i < groupedArr.length;i++) {
         for (const anAnime of groupedArr[i]) {
-            newPlainText += `${anAnime} - ${10 - i}\n`;
+            newPlainText += `${anAnime} %/ ${10 - i}\n`;
             scores.push(10 - i);
         }
     }

@@ -37,6 +37,21 @@ const mutation = `mutation ($id: Int, $score: Float, $notes: String) {
   }
 `;
 
+function ordinal_suffix_of(i) {
+  var j = i % 10,
+      k = i % 100;
+  if (j == 1 && k != 11) {
+      return i + "st";
+  }
+  if (j == 2 && k != 12) {
+      return i + "nd";
+  }
+  if (j == 3 && k != 13) {
+      return i + "rd";
+  }
+  return i + "th";
+}
+
 async function getList() {
     let hasNextPage = true;
     let page = 1;
@@ -68,14 +83,14 @@ async function updateList() {
     index.init();
 
     const outputArr = fs.readFileSync('./scores-output.txt', 'utf-8').split(/\r?\n/);
-    const outputObj = outputArr.map((item, index) => ({name: item.split(' - ')[0], score: item.split(' - ')[1], notes: `${Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100)}${Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100) === 1 ? 'st' : (Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100) === 2 ? 'nd' : 'th')} percentile`}));
+    const outputObj = outputArr.map((item, index) => ({name: item.split(' %/ ')[0], score: item.split(' %/ ')[1], notes: `${ordinal_suffix_of(Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100))} percentile`}));
 
     for (const show of outputObj) {
         const foundItem = list.find(item => item.name === show.name);
         if (parseInt(show.score) === foundItem.score && show.notes === foundItem.notes) {
           continue;
         }
-        console.log(`${show.name} - ${show.score} - ${show.notes}`);
+        console.log(`${show.name}: ${show.score} - ${show.notes}`);
         await makeMutationRequest(foundItem.id, show.score, show.notes);
         await new Promise(r => setTimeout(r, 1000));
     }
