@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "dotenv": "^16.3.1",
+    "eslint": "^8.45.0",
     "superagent": "^8.0.9"
-  }
+  },
+  "name": "RankToScores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoseiToAoiTori/ranks-to-scores.git",
+  "license": "MIT"
 }
