@@ -83,11 +83,11 @@ async function updateList() {
     index.init();
 
     const outputArr = fs.readFileSync('./scores-output.txt', 'utf-8').split(/\r?\n/);
-    const outputObj = outputArr.map((item, index) => ({name: item.split(' %/ ')[0], score: item.split(' %/ ')[1], notes: `${ordinal_suffix_of(Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100))} percentile`}));
+    const outputObj = outputArr.filter(Boolean).map((item, index) => ({name: item.split(' %/ ')[0], score: item.split(' %/ ')[1], notes: `${ordinal_suffix_of(Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100))} percentile`}));
 
     for (const show of outputObj) {
         const foundItem = list.find(item => item.name === show.name);
-        if (parseInt(show.score) === foundItem.score && show.notes === foundItem.notes) {
+        if (!foundItem || (parseInt(show.score) === foundItem.score && show.notes === foundItem.notes)) {
           continue;
         }
         console.log(`${show.name}: ${show.score} - ${show.notes}`);
