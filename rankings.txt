@@ -138,6 +138,7 @@ Lupin III: THE FIRST
 Misaki no Mayoiga
 Nodame Cantabile
 Rolling☆Girls
+Seijo no Maryoku wa Bannou desu
 Gin no Saji 2
 BIRDIE WING: Golf Girls' Story
 Haikyuu!! TO THE TOP
@@ -163,6 +164,8 @@ Major: Yuujou no Ikkyuu
 Major S2
 Major S4
 Major S5
+Major: World Series
+Major S3
 Hoozuki no Reitetsu 2
 Ikezu
 Baby I Love You Daze
@@ -231,8 +234,6 @@ Nodame Cantabile: Paris-hen
 Lovely★Complex
 Star☆Twinkle Precure
 Kyokou Suiri
-Major: World Series
-Major S3
 Mahou Shoujo Madoka☆Magica
 Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
 ARIA The AVVENIRE
