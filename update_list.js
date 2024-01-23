@@ -91,8 +91,14 @@ async function updateList() {
           continue;
         }
         console.log(`${show.name}: ${show.score} - ${show.notes}`);
-        await makeMutationRequest(foundItem.id, show.score, show.notes);
-        await new Promise(r => setTimeout(r, 1000));
+        try {
+          await makeMutationRequest(foundItem.id, show.score, show.notes);
+        } catch (error) {
+          console.log(`${foundItem.name} caused the problem`);
+          console.log(error);
+        } finally {
+          await new Promise(r => setTimeout(r, 1000));
+        }
     }
 }
 
