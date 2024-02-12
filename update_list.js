@@ -37,6 +37,12 @@ const mutation = `mutation ($id: Int, $score: Float, $notes: String) {
   }
 `;
 
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
 function ordinal_suffix_of(i) {
   var j = i % 10,
       k = i % 100;
@@ -60,6 +66,7 @@ async function getList() {
     while (hasNextPage) {
         console.log(page);
         const response = await (await superagent.post('https://graphql.anilist.co').send({query: dump_query, variables: {name: config.username, page}})).body.data;
+        await sleep(2000);
         const mediaList = response.Page.mediaList;
         for (const media of mediaList) {
           animeArr.push({id: media.id, name: media.media.title.romaji, score: media.score, notes: media.notes});
@@ -97,7 +104,7 @@ async function updateList() {
           console.log(`${foundItem.name} caused the problem`);
           console.log(error);
         } finally {
-          await new Promise(r => setTimeout(r, 1000));
+          await new Promise(r => setTimeout(r, 2000));
         }
     }
 }
