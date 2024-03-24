@@ -42,6 +42,7 @@ Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 PSYCHO-PASS
 Tengen Toppa Gurren Lagann
 Cardcaptor Sakura Movie: Fuinsareta Card
+Kusuriya no Hitorigoto
 Hourou Musuko
 Ping Pong THE ANIMATION
 Nichijou
@@ -305,6 +306,7 @@ Simoun
 PSYCHO-PASS Movie
 Natsu e no Tunnel, Sayonara no Deguchi
 Mitsuboshi Colors
+Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
 Hisone to Maso-tan
 Megalo Box
 Yoake Tsugeru Lu no Uta
@@ -528,6 +530,7 @@ Nihonbashi Koukashita R Keikaku
 Nanatsu-iro REALiZE
 More
 Housekishou Richard-shi no Nazo Kantei
+Yubisaki to Renren
 Overtake!
 Kishuku Gakkou no Juliet
 Senki Zesshou Symphogear AXZ
