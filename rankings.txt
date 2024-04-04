@@ -210,7 +210,7 @@ GIRL ELECTRIC
 Android Girl
 Hanasaku Iroha
 MF Ghost
-Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
+Shangri-La Frontier
 Machikado Mazoku
 Machikado Mazoku: 2-Choume
 Koi wa Ameagari no You ni
@@ -258,6 +258,7 @@ Star☆Twinkle Precure
 Kyokou Suiri
 Mahou Shoujo Madoka☆Magica
 Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
+Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
 Hime-sama, "Goumon" no Jikan desu
 ARIA The AVVENIRE
 Death Parade
