@@ -655,6 +655,7 @@ Tomo-chan wa Onnanoko!
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
 Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen
 THE GOD OF HIGH SCHOOL
+Ore dake Level Up na Ken
 Kono Subarashii Sekai ni Bakuen wo!
 Null Peta
 Steins;Gate 0
@@ -686,6 +687,8 @@ FAIRY TAIL
 FAIRY TAIL (2014)
 FAIRY TAIL Movie: Houou no Miko
 GODZILLA: Hoshi wo Kuu Mono
+MASHLE
+MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
 Kamisama ni Natta Hi
 Hoshikuzu Telepath
 Hakubo
@@ -714,7 +717,6 @@ Infinite Dendrogram
 Kuma Kuma Kuma Bear
 Null Peta: Doki♥ Nullnull Petapeta! Mizugi Darake no Onee-chan Taikai!
 Plastic Nee-san
-MASHLE
 Rakudai Kishi no Cavalry
 Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 Shitcom
