@@ -21,10 +21,10 @@ LUPIN the Third: Mine Fujiko to Iu Onna
 Mimi wo Sumaseba
 Otona Joshi no Anime Time
 ARIA The ORIGINATION
-Kuragehime
-Wakaokami wa Shougakusei! (Movie)
 Tamako Market
 Tamako Love Story
+Nichijou
+Wakaokami wa Shougakusei! (Movie)
 Kino no Tabi: the Beautiful World
 HUGtto! Precure
 Usagi Drop
@@ -45,7 +45,6 @@ Cardcaptor Sakura Movie: Fuinsareta Card
 Kusuriya no Hitorigoto
 Hourou Musuko
 Ping Pong THE ANIMATION
-Nichijou
 Shoujo Kakumei Utena
 Kill la Kill
 Promare
@@ -62,6 +61,7 @@ Heartcatch Precure!
 Hibike! Euphonium 2
 Shoujo Kakumei Utena: Adolescence Mokushiroku
 JIN-ROH
+Kuragehime
 Tokubetsu-hen Hibike! Euphonium: Ensemble Contest
 Yama no Susume: Next Summit
 Yama no Susume: Second Season
