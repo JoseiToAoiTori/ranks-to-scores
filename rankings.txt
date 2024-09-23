@@ -43,13 +43,14 @@ PSYCHO-PASS
 Tengen Toppa Gurren Lagann
 Cardcaptor Sakura Movie: Fuinsareta Card
 Kusuriya no Hitorigoto
+Hibike! Euphonium 3
 Hourou Musuko
 Ping Pong THE ANIMATION
 Shoujo Kakumei Utena
 Kill la Kill
 Promare
 Princess Tutu
-Hibike! Euphonium 3
+Dead Dead Demon's Dededededestruction
 Panty & Stocking with Garterbelt
 Kaguya-hime no Monogatari
 Yuuri!!! on ICE
@@ -98,6 +99,7 @@ Sakamichi no Apollon
 Go! Princess Precure
 Jinrui wa Suitai Shimashita
 Cross Game
+Natsume Yuujinchou Roku
 16bit Sensation: ANOTHER LAYER
 4-nin wa Sorezore Uso wo Tsuku
 Scott Pilgrim Takes Off
@@ -125,6 +127,8 @@ Kimi to Boku.
 Kimi to Boku. 2
 Yagate Kimi ni Naru
 Hoshiai no Sora
+Sonny Boy
+Shoushimin Series
 Ginga Tetsudou no Yoru
 Doukyuusei
 Shoujo☆Kageki Revue Starlight
@@ -137,7 +141,6 @@ Sasameki Koto
 Samurai Champloo
 Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
 Kimi no Na wa.
-Sonny Boy
 Little Witch Academia
 Ongaku
 Kidou Keisatsu Patlabor 2: the Movie
@@ -286,6 +289,7 @@ SK∞
 DEATH NOTE
 Hoozuki no Reitetsu
 Ookami Kodomo no Ame to Yuki
+VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta
 Hypnosis Mic -Division Rap Battle- Rhyme Anima+
 Steins;Gate
 NEW GAME!
@@ -297,6 +301,7 @@ Bessatsu Olympia Kyklos
 Dr. STONE
 Dr. STONE: STONE WARS
 Dr. STONE: NEW WORLD Part 2
+Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
 sister
 SHIROBAKO Movie
 Kokoro Connect
@@ -310,6 +315,7 @@ Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma
 Cardcaptor Sakura: Clear Card-hen
 Initial D THIRD STAGE
 Hibike! Euphonium: Chikai no Finale
+Giji Harem
 Umibe no Étranger
 Fuujin Monogatari
 Gekai Elise
@@ -334,6 +340,7 @@ AKIRA
 Dungeon Meshi
 Dorohedoro
 Adachi to Shimamura
+Shikanoko Nokonoko Koshitantan
 Given
 Given Movie
 Non Non Biyori: Nonstop
@@ -354,6 +361,7 @@ Working!!!: Lord of the Takanashi
 Araburu Kisetsu no Otome-domo yo.
 Golden Time
 Girls Band Cry
+Gimai Seikatsu
 Golden Kamuy
 Golden Kamuy 2nd Season
 Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
@@ -522,6 +530,7 @@ Hataraku Maou-sama!
 Pon no Michi
 BanG Dream! It's MyGO!!!!!
 Astro Note
+Bye Bye, Earth
 Boku no Hero Academia
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 Boku no Hero Academia 3
@@ -597,6 +606,7 @@ Skip to Loafer
 Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
 Shoujo☆Kageki Revue Starlight Specials
 Kidou Keisatsu Patlabor
+Maou Gun Saikyou no Majutsushi wa Ningen datta
 Horimiya
 Nijiiro Days
 Kingsglaive Final Fantasy XV
@@ -627,6 +637,7 @@ Senki Zesshou Symphogear G
 Princess Nine: Kisaragi Joshikou Yakyuu-bu
 Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen
 Higurashi no Naku Koro ni
+Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
 Runway de Waratte
 Ousama Ranking: Yuuki no Takarabako
 Aikatsu on Parade!
@@ -671,12 +682,15 @@ Accel World
 Southpaw
 Onii-chan wa Oshimai!
 Chuunibyou demo Koi ga Shitai! Ren
+Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
+Na-Nare Hana-Nare
 Love Live! School idol project
 Love Live! School idol project 2nd Season
 Love Live! The School Idol Movie
 Tomo-chan wa Onnanoko!
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
 Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen
+Isekai Suicide Squad
 THE GOD OF HIGH SCHOOL
 Ore dake Level Up na Ken
 Kono Subarashii Sekai ni Bakuen wo!
