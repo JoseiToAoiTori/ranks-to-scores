@@ -2,11 +2,6 @@ K-ON!
 K-ON!!
 K-ON! Movie
 Liz to Aoi Tori
-Natsume Yuujinchou
-Zoku Natsume Yuujinchou
-Natsume Yuujinchou San
-Natsume Yuujinchou Shi
-Natsume Yuujinchou Go
 Haibane Renmei
 Yojouhan Shinwa Taikei
 Ginga Eiyuu Densetsu
@@ -43,6 +38,12 @@ Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 PSYCHO-PASS
 Tengen Toppa Gurren Lagann
 Cardcaptor Sakura Movie: Fuinsareta Card
+Natsume Yuujinchou
+Zoku Natsume Yuujinchou
+Natsume Yuujinchou San
+Natsume Yuujinchou Shi
+Natsume Yuujinchou Go
+Natsume Yuujinchou Shichi
 Kusuriya no Hitorigoto
 Hibike! Euphonium 3
 Hourou Musuko
@@ -162,6 +163,7 @@ Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 Initial D
 Initial D SECOND STAGE
 Kidou Senshi Gundam 0080: Pocket no Naka no Sensou
+Ranma 1/2 (2024)
 Sousou no Frieren
 Pokémon Concierge
 Seijo no Maryoku wa Bannou desu
@@ -173,6 +175,8 @@ Hana to Alice Satsujin Jiken
 Lycoris Recoil
 Kidou Senshi Zeta Gundam
 Kidou Senshi Gundam: Gyakushuu no Char
+Acro Trip
+Puniru wa Kawaii Slime
 High☆Speed!: Free! Starting Days
 Cardcaptor Sakura Movie
 SPY×FAMILY
@@ -196,8 +200,9 @@ Major S5
 Major: World Series
 Major S3
 Senpai wa Otokonoko
+Sasayaku You ni Koi wo Utau
 Blue Archive The Animation
-Acro Trip
+Mecha-ude (TV)
 SPY×FAMILY CODE: White
 Hoozuki no Reitetsu 2
 Ikezu
@@ -209,10 +214,16 @@ Saiki Kusuo no Ψ-nan: Kanketsu-hen
 Vlad Love
 Non Non Biyori
 Non Non Biyori: Repeat
+Dandadan
 Durarara!!
 Durarara!! Specials
 Shuumatsu Train Doko e Iku?
 Mairimashita! Iruma-kun
+Uma Musume: Pretty Derby - Shin Jidai no Tobira
+Sword Art Online Alternative: Gun Gale Online II
+Mahoutsukai ni Narenakatta Onnanoko no Hanashi.
+MF Ghost
+MF Ghost 2nd Season
 Kaguya-sama wa Kokurasetai: Ultra Romantic
 Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
 Aggressive Retsuko Season 5
@@ -228,7 +239,6 @@ Airy Me
 GIRL ELECTRIC
 Android Girl
 Hanasaku Iroha
-MF Ghost
 Shangri-La Frontier
 Machikado Mazoku
 Machikado Mazoku: 2-Choume
@@ -546,6 +556,7 @@ Pon no Michi
 BanG Dream! It's MyGO!!!!!
 Astro Note
 Bye Bye, Earth
+Rekishi ni Nokoru Akujo ni Naruzo
 Boku no Hero Academia
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 Boku no Hero Academia 3
@@ -587,6 +598,7 @@ Senki Zesshou Symphogear AXZ
 Uzumaki
 22/7
 Koi wa Futago de Warikirenai
+Nageki no Bourei wa Intai Shitai
 Hitoribocchi no Marumaru Seikatsu
 Munou na Nana
 Tenkuu no Shiro Laputa
@@ -766,6 +778,7 @@ PSYCHO-PASS Sinners of the System Case 2: First Guardian
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
 Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi
+Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
 Aho-Girl
 Assassins Pride
 Enbo
