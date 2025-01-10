@@ -93,7 +93,7 @@ async function updateList() {
     const outputObj = outputArr.map((item, index) => ({name: item.split(' %/ ')[0], score: item.split(' %/ ')[1], notes: `${ordinal_suffix_of(Math.ceil(((outputArr.length - (index + 1)) / outputArr.length) * 100))} percentile`}));
 
     for (const show of outputObj) {
-        const foundItem = list.find(item => item.name === show.name);
+        const foundItem = list.find(item => item.name.toLowerCase() === show.name.toLowerCase());
         if (!foundItem || (parseInt(show.score) === foundItem.score && show.notes === foundItem.notes)) {
           continue;
         }
