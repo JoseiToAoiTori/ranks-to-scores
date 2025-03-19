@@ -533,6 +533,7 @@ BUCCHIGIRI?!
 Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
 Bokura no Ameiro Protocol
 World Dai Star
+SAKAMOTO DAYS
 Watashi no Shiawase na Kekkon
 Girls und Panzer
 Girls und Panzer Movie
@@ -570,7 +571,6 @@ HIMITSU Spark
 Kobayashi-san Chi no Maidragon
 BANANA FISH
 FINAL FANTASY XV EPISODE ARDYN - PROLOGUE
-Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
 Seiyuu Radio no Uraomote
 Hataraku Saibou
 Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
@@ -741,6 +741,9 @@ Nekomonogatari (Kuro)
 Nisemonogatari
 Yesterday wo Utatte
 Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
+Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
+Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
 Midara na Ao-chan wa Benkyou ga Dekinai
 Kanashimi no Belladonna
 Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
@@ -759,9 +762,11 @@ Darling in the Franxx
 FAIRY TAIL
 FAIRY TAIL (2014)
 FAIRY TAIL Movie: Houou no Miko
+S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
 GODZILLA: Hoshi wo Kuu Mono
 MASHLE
 MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
+Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
 Kamisama ni Natta Hi
 Hoshikuzu Telepath
 Hakubo
