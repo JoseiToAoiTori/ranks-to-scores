@@ -21,21 +21,22 @@ Tamako Love Story
 Nichijou
 Kimi no Iro
 Kino no Tabi: the Beautiful World
-HUGtto! Precure
-Usagi Drop
 PERFECT BLUE
 Sennen Joyuu
 Hibike! Euphonium
 Mawaru Penguindrum
+Aikatsu!
+HUGtto! Precure
 Eiga Daisuki Pompo-san
 Suzumiya Haruhi no Shoushitsu
-Omoide Poro Poro
-Barakamon
 Ouran Koukou Host Club
 Shouwa Genroku Rakugo Shinjuu
 Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 PSYCHO-PASS
 Tengen Toppa Gurren Lagann
+Omoide Poro Poro
+Usagi Drop
+Barakamon
 Wakaokami wa Shougakusei! (Movie)
 Paradise Kiss
 Cardcaptor Sakura Movie: Fuinsareta Card
@@ -67,7 +68,6 @@ Heartcatch Precure!
 Hibike! Euphonium 2
 Shoujo Kakumei Utena: Adolescence Mokushiroku
 JIN-ROH
-Kuragehime
 Tokubetsu-hen Hibike! Euphonium: Ensemble Contest
 Yama no Susume: Next Summit
 Yama no Susume: Second Season
@@ -77,18 +77,20 @@ ARIA The ANIMATION
 ARIA The NATURAL
 ARIA The OVA: ARIETTA
 Uchuu Patrol Luluco
-Tsuki ga Kirei
-Houseki no Kuni
 Gankutsuou
 Yojouhan Time Machine Blues
 Yoru wa Mijikashi Arukeyo Otome
 Kyousougiga (TV)
+Kimitachi wa Dou Ikiru ka
 SLAM DUNK
 THE FIRST SLAM DUNK
 Gekkan Shoujo Nozaki-kun
 Suzumiya Haruhi no Yuuutsu
+Kuragehime
 Lupin III: Cagliostro no Shiro
 Little Witch Academia: Mahou-jikake no Parade
+Tsuki ga Kirei
+Houseki no Kuni
 Haikyuu!! 2nd Season
 Haikyuu!!: Gomi Suteba no Kessen
 Haikyuu!!
@@ -296,8 +298,10 @@ Initial D THIRD STAGE
 Hibike! Euphonium: Chikai no Finale
 Mahou Shoujo Madoka☆Magica
 Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
+Sorairo Utility (TV)
 Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
 Hime-sama, "Goumon" no Jikan desu
+Tasokare Hotel
 ARIA The AVVENIRE
 Death Parade
 Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -477,6 +481,7 @@ MONSTER GENERATiON
 Korekuraide Utau
 L'Œil du Cyclone
 Summer Wars
+Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
 Ousama Ranking
 Tsurezure Children
 Udon no Kuni no Kiniro Kemari
@@ -773,6 +778,7 @@ Hakubo
 Hand Shakers: Go ago Go
 HELLO WORLD
 Vivy: Fluorite Eye’s Song
+Izure Saikyou no Renkinjutsushi?
 Isekai Quartet
 Isekai Quartet 2
 Isekai wa Smartphone to Tomo ni.
