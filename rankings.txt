@@ -35,6 +35,7 @@ Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 PSYCHO-PASS
 Tengen Toppa Gurren Lagann
 Omoide Poro Poro
+Aikatsu! 2
 Usagi Drop
 Barakamon
 Wakaokami wa Shougakusei! (Movie)
@@ -121,8 +122,7 @@ Major S6
 Major: Message
 Major 2nd Season 2
 Oki ni Mesu mama
-Hirogaru Sky! Precure
-Wonderful Precure!
+Mahoutsukai Precure!! MIRAI DAYS
 Tokyo Marble Chocolate
 Koe no Katachi
 Baccano!
@@ -179,6 +179,8 @@ Hana to Alice Satsujin Jiken
 Lycoris Recoil
 Kidou Senshi Zeta Gundam
 Kidou Senshi Gundam: Gyakushuu no Char
+Hirogaru Sky! Precure
+Wonderful Precure!
 Acro Trip
 Puniru wa Kawaii Slime
 High☆Speed!: Free! Starting Days
@@ -331,6 +333,8 @@ Bessatsu Olympia Kyklos
 Dr. STONE
 Dr. STONE: STONE WARS
 Dr. STONE: NEW WORLD Part 2
+Dr. STONE: SCIENCE FUTURE
+Trillion Game
 Kabushiki Gaisha Magi Lumiere
 Mayonaka Punch
 Yozakura-san Chi no Daisakusen
@@ -348,6 +352,7 @@ Giji Harem
 Umibe no Étranger
 Fuujin Monogatari
 Gekai Elise
+Nihon e Youkoso Elf-san.
 Suzume no Tojimari
 Migi to Dali
 Junkers Come Here
@@ -529,6 +534,8 @@ Amagi Brilliant Park
 Inu x Boku SS
 Inu x Boku SS Special
 Kanamewo
+BanG Dream! Ave Mujica
+Akuyaku Reijou Tensei Oji-san
 GIRLS BAND CRY
 Gimai Seikatsu
 Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
@@ -548,6 +555,7 @@ Shigatsu wa Kimi no Uso
 Akagami no Shirayuki-hime 2nd Season
 Madougushi Dahlia wa Utsumukanai
 WIND BREAKER
+Hana wa Saku, Shura no Gotoku
 Baby Steps
 Zombie Land Saga
 Jibaku Shounen Hanako-kun
@@ -557,6 +565,7 @@ Bungou Stray Dogs
 Bungou Stray Dogs 2nd Season
 Karakai Jouzu no Takagi-san
 Sora no Aosa wo Shiru Hito yo
+Sentai Red Isekai de Boukensha ni Naru
 Kibou no Chikara: Otona Precure '23
 Penguin Highway
 Panty & Stocking in Sanitarybox
@@ -566,6 +575,7 @@ Pon no Michi
 Astro Note
 Bye Bye, Earth
 Rekishi ni Nokoru Akujo ni Naruzo
+Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
 Boku no Hero Academia
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 Boku no Hero Academia 3
@@ -665,6 +675,7 @@ BROTHERHOOD FINAL FANTASY XV
 Ura Sekai Picnic
 Samurai Flamenco
 Sakasama no Patema
+Zenshuu.
 Wu Shan Wu Xing: Zhuo Yuan Shen Huo
 Kono Subarashii Sekai ni Shukufuku wo! 3
 GREAT PRETENDER: razbliuto
@@ -706,6 +717,7 @@ Fate/stay night [Heaven's Feel] II. lost butterfly
 Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
 Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!
 Plastic Memories
+Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
 Appare-Ranman!
 Kizumonogatari I: Tekketsu-hen
 Kizumonogatari II: Nekketsu-hen
@@ -717,6 +729,7 @@ Byousoku 5 Centimeter
 Sol Levante
 Kubo-san wa Mob wo Yurusanai
 Lapis Re:LiGHTs
+Magic Maker: Isekai Mahou no Tsukurikata
 Accel World
 Southpaw
 Onii-chan wa Oshimai!
@@ -727,18 +740,22 @@ Love Live! School idol project
 Love Live! School idol project 2nd Season
 Love Live! The School Idol Movie
 Nige Jouzu no Wakagimi
+Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
+Ameku Takao no Suiri Karte
 Tomo-chan wa Onnanoko!
 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
 Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen
 Isekai Suicide Squad
 THE GOD OF HIGH SCHOOL
 Ore dake Level Up na Ken
+Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
 Kono Subarashii Sekai ni Bakuen wo!
 Null Peta
 Steins;Gate 0
 Koisuru Asteroid
 Harukana Receive
 Tonari no Kaibutsu-kun
+Honey Lemon Soda
 [Oshi no Ko]
 Sword Art Online II
 Sword Art Online: Alicization
