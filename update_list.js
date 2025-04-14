@@ -98,6 +98,9 @@ async function updateList() {
           continue;
         }
         console.log(`${show.name}: ${show.score} - ${show.notes}`);
+        if (foundItem.score !== parseInt(show.score)) {
+          console.log(`Score changed from ${foundItem.score} to ${show.score}`);
+        }
         try {
           await makeMutationRequest(foundItem.id, show.score, show.notes);
         } catch (error) {
