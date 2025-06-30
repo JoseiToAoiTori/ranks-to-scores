@@ -186,6 +186,7 @@ Hana to Alice Satsujin Jiken
 Lycoris Recoil
 Kidou Senshi Zeta Gundam
 Kidou Senshi Gundam: Gyakushuu no Char
+Rock wa Lady no Tashinami Deshite
 Hirogaru Sky! Precure
 Wonderful Precure!
 Acro Trip
@@ -547,7 +548,9 @@ Inu x Boku SS Special
 Kanamewo
 BanG Dream! Ave Mujica
 Akuyaku Reijou Tensei Oji-san
+mono
 GIRLS BAND CRY
+Lazarus
 Gimai Seikatsu
 Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
 Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
@@ -769,6 +772,7 @@ THE GOD OF HIGH SCHOOL
 Ore dake Level Up na Ken
 Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
 Kono Subarashii Sekai ni Bakuen wo!
+Ninja to Koroshiya no Futarigurashi
 Null Peta
 Steins;Gate 0
 Koisuru Asteroid
