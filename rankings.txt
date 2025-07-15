@@ -421,7 +421,6 @@ Fate/Zero
 Fate/Zero 2nd Season
 Fate/stay night: Unlimited Blade Works
 Fate/stay night: Unlimited Blade Works 2nd Season
-Grand Blue
 Fate/Apocrypha
 Fate/Grand Order: First Order
 Tada-kun wa Koi wo Shinai
@@ -779,6 +778,7 @@ Null Peta
 Steins;Gate 0
 Koisuru Asteroid
 Harukana Receive
+Grand Blue
 Tonari no Kaibutsu-kun
 Honey Lemon Soda
 [Oshi no Ko]
