@@ -58,7 +58,6 @@ Shoujo Kakumei Utena
 Kill la Kill
 Promare
 Princess Tutu
-Aikatsu! 4
 Dead Dead Demon's Dededededestruction
 Panty & Stocking with Garterbelt
 Kaguya-hime no Monogatari
@@ -95,6 +94,7 @@ Suzumiya Haruhi no Yuuutsu
 Kuragehime
 Lupin III: Cagliostro no Shiro
 Little Witch Academia: Mahou-jikake no Parade
+Aikatsu! 4
 Tsuki ga Kirei
 Houseki no Kuni
 Haikyuu!! 2nd Season
@@ -125,6 +125,7 @@ Initial D Final Stage
 Tanaka-kun wa Itsumo Kedaruge
 Baja no Studio
 Baja no Studio: Baja no Mita Umi
+PriPara
 Hokkyoku Hyakkaten no Concierge-san
 Major S6
 Major: Message
@@ -186,6 +187,7 @@ Haikyuu!! TO THE TOP
 Kidou Senshi Gundam Double Zeta
 Hana to Alice Satsujin Jiken
 Lycoris Recoil
+Food Court de, Mata Ashita.
 Kidou Senshi Zeta Gundam
 Kidou Senshi Gundam: Gyakushuu no Char
 Rock wa Lady no Tashinami Deshite
@@ -202,6 +204,8 @@ Paripi Koumei
 Bocchi the Rock!
 Yama no Susume: Third Season
 Kaiba
+Mahou Shoujo Madoka☆Magica
+Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
 Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
 Little Witch Academia (TV)
 Youjo Shachou
@@ -225,6 +229,7 @@ Hoozuki no Reitetsu 2
 Ikezu
 Baby I Love You Daze
 Hypnosis Mic: Division Rap Battle - Rhyme Anima
+My Melody & Kuromi
 Saiki Kusuo no Ψ-nan
 Saiki Kusuo no Ψ-nan 2
 Saiki Kusuo no Ψ-nan: Kanketsu-hen
@@ -248,6 +253,7 @@ Modao Zushi
 Modao Zushi 2
 Tian Guan Ci Fu
 Oshi ga Budoukan Ittekuretara Shinu
+Pokémon Concierge Part 2
 Taisou Zamurai
 Maou-jou de Oyasumi
 Yamiyo
@@ -264,7 +270,6 @@ Koi wa Ameagari no You ni
 Hi Score Girl
 Somali to Mori no Kamisama
 Watashi no Oshi wa Akuyaku Reijou.
-Henjin no Salad Bowl
 Senyuu.
 Senyuu. 2
 Cencoroll
@@ -310,8 +315,6 @@ Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma
 Cardcaptor Sakura: Clear Card-hen
 Initial D THIRD STAGE
 Hibike! Euphonium: Chikai no Finale
-Mahou Shoujo Madoka☆Magica
-Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
 Sorairo Utility (TV)
 Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
 Hime-sama, "Goumon" no Jikan desu
@@ -410,6 +413,7 @@ Golden Time
 Golden Kamuy
 Golden Kamuy 2nd Season
 Nagi no Asukara
+Henjin no Salad Bowl
 BLACKFOX
 Bananya
 MEMORIES
@@ -562,6 +566,7 @@ GUILTY GEAR STRIVE: DUAL RULERS
 Bokura no Ameiro Protocol
 World Dai Star
 SAKAMOTO DAYS
+SAKAMOTO DAYS Part 2
 Girls und Panzer
 Girls und Panzer Movie
 Girls und Panzer: Saishuushou 1
