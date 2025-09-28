@@ -18,9 +18,10 @@ Otona Joshi no Anime Time
 ARIA The ORIGINATION
 Tamako Market
 Tamako Love Story
-Nichijou
 Kimi no Iro
 Aikatsu! 10th STORY: Mirai e no STARWAY (2023)
+Nichijou
+CITY THE ANIMATION
 Kino no Tabi: the Beautiful World
 PERFECT BLUE
 Sennen Joyuu
@@ -95,6 +96,7 @@ Kuragehime
 Lupin III: Cagliostro no Shiro
 Little Witch Academia: Mahou-jikake no Parade
 Aikatsu! 4
+New PANTY & STOCKING with GARTERBELT
 Tsuki ga Kirei
 Houseki no Kuni
 Haikyuu!! 2nd Season
@@ -107,6 +109,7 @@ Shoujo☆Kageki Revue Starlight Movie
 Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete
 Rolling☆Girls
 Aikatsu! 3
+Bad Girl
 Michiko to Hatchin
 Sakamichi no Apollon
 Go! Princess Precure
@@ -188,8 +191,10 @@ Kidou Senshi Gundam Double Zeta
 Hana to Alice Satsujin Jiken
 Lycoris Recoil
 Food Court de, Mata Ashita.
+Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)
 Kidou Senshi Zeta Gundam
 Kidou Senshi Gundam: Gyakushuu no Char
+Puniru wa Kawaii Slime 2nd Season
 Rock wa Lady no Tashinami Deshite
 Hirogaru Sky! Precure
 Wonderful Precure!
@@ -197,6 +202,7 @@ Acro Trip
 Puniru wa Kawaii Slime
 High☆Speed!: Free! Starting Days
 Cardcaptor Sakura Movie
+Ruri no Houseki
 SPY×FAMILY
 SPY×FAMILY Part 2
 SPY×FAMILY Season 2
@@ -262,8 +268,6 @@ Airy Me
 GIRL ELECTRIC
 Android Girl
 Hanasaku Iroha
-Shangri-La Frontier
-Shangri-La Frontier 2nd Season
 Machikado Mazoku
 Machikado Mazoku: 2-Choume
 Koi wa Ameagari no You ni
@@ -305,6 +309,7 @@ Lucky☆Star OVA
 Lucky☆Star
 Mousou Dairinin
 Sora yori mo Tooi Basho
+Uchuujin MuuMuu
 BIRDIE WING: Golf Girls' Story Season 2
 NHK ni Youkoso!
 Nodame Cantabile: Paris-hen
@@ -345,6 +350,9 @@ Hinamatsuri
 Asagao to Kase-san.
 Yuuki Bakuhatsu Bang Bravern
 Bessatsu Olympia Kyklos
+Shangri-La Frontier
+Shangri-La Frontier 2nd Season
+Dr. STONE: SCIENCE FUTURE Part 2
 Dr. STONE
 Dr. STONE: STONE WARS
 Dr. STONE: NEW WORLD Part 2
@@ -389,6 +397,8 @@ AKIRA
 Dungeon Meshi
 Dorohedoro
 Adachi to Shimamura
+Shin Samurai-den YAIBA
+Kamitsubaki-shi Kensetsuchuu.
 Shikanoko Nokonoko Koshitantan
 NegaPosi Angler
 Given
@@ -451,6 +461,7 @@ RELEASE THE SPYCE
 Dekiru Neko wa Kyou mo Yuuutsu
 Dungeon no Naka no Hito
 Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
+Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season
 Kaminaki Sekai no Kamisama Katsudou
 Mukougaoka Chisato wa Tada Mitsumeteita no Datta
 Sayonara Gokko
@@ -467,6 +478,7 @@ Shelter
 Baccano! Specials
 Tensei Oujo to Tensai Reijou no Mahou Kakumei
 Endro~!
+Fermat no Ryouri
 Gamers!
 PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
 PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu
@@ -498,6 +510,7 @@ Kimi ni Sekai
 Yakusoku
 Kanojo wa Zombie
 Susume, Karolina.
+Tsuihousha Shokudou e Youkoso!
 MONSTER GENERATiON
 Korekuraide Utau
 L'Œil du Cyclone
@@ -610,6 +623,7 @@ FINAL FANTASY XV EPISODE ARDYN - PROLOGUE
 Seiyuu Radio no Uraomote
 Hataraku Saibou
 Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
+Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
 Kaijuu 8-gou
 3-gatsu no Lion 2
 Heya Camp△
@@ -645,6 +659,7 @@ Tenkuu no Shiro Laputa
 Majo to Yajuu
 Kemono Jihen
 Re:CREATORS
+Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
 Shingeki no Kyojin 3 Part 2
 Shingeki no Kyojin 3
 Shingeki no Kyojin 2
@@ -725,6 +740,7 @@ Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 Fruits Basket: 2nd Season
 One Punch Man 2
 Mind Game
+Kaoru Hana wa Rin to Saku
 Kidou Senshi Gundam: Dai 08 MS Shotai
 Aru Majo ga Shinu Made
 Mahou Shoujo ni Akogarete
@@ -811,6 +827,7 @@ Tokyo Ghoul:re
 Tokyo Ghoul √A
 Asobi Asobase
 Darling in the Franxx
+Koujo Denka no Katei Kyoushi
 FAIRY TAIL
 FAIRY TAIL (2014)
 FAIRY TAIL Movie: Houou no Miko
@@ -819,6 +836,7 @@ Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
 S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
 GODZILLA: Hoshi wo Kuu Mono
 Shiunji-ke no Kodomotachi
+GaCen Shoujo to Ibunka Kouryuu
 MASHLE
 MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
 Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
