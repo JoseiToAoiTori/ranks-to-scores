@@ -82,6 +82,7 @@ ARIA The ANIMATION
 ARIA The NATURAL
 ARIA The OVA: ARIETTA
 Uchuu Patrol Luluco
+Project Sekai: Kowareta SEKAI to Utaenai MIKU
 Gankutsuou
 Yojouhan Time Machine Blues
 Yoru wa Mijikashi Arukeyo Otome
@@ -129,6 +130,8 @@ Tanaka-kun wa Itsumo Kedaruge
 Baja no Studio
 Baja no Studio: Baja no Mita Umi
 PriPara
+PriPara 2nd Season
+PriPara 3rd Season
 Hokkyoku Hyakkaten no Concierge-san
 Major S6
 Major: Message
@@ -195,6 +198,7 @@ Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)
 Kidou Senshi Zeta Gundam
 Kidou Senshi Gundam: Gyakushuu no Char
 Puniru wa Kawaii Slime 2nd Season
+Silent Witch: Chinmoku no Majo no Kakushigoto
 Rock wa Lady no Tashinami Deshite
 Hirogaru Sky! Precure
 Wonderful Precure!
@@ -203,9 +207,6 @@ Puniru wa Kawaii Slime
 High☆Speed!: Free! Starting Days
 Cardcaptor Sakura Movie
 Ruri no Houseki
-SPY×FAMILY
-SPY×FAMILY Part 2
-SPY×FAMILY Season 2
 Paripi Koumei
 Bocchi the Rock!
 Yama no Susume: Third Season
@@ -227,6 +228,7 @@ Major S5
 Major: World Series
 Major S3
 Senpai wa Otokonoko
+Senpai wa Otokonoko: Ame Nochi Hare
 Sasayaku You ni Koi wo Utau
 Blue Archive The Animation
 Mecha-ude (TV)
@@ -350,6 +352,7 @@ Hinamatsuri
 Asagao to Kase-san.
 Yuuki Bakuhatsu Bang Bravern
 Bessatsu Olympia Kyklos
+Witch Watch
 Shangri-La Frontier
 Shangri-La Frontier 2nd Season
 Dr. STONE: SCIENCE FUTURE Part 2
@@ -478,6 +481,9 @@ Shelter
 Baccano! Specials
 Tensei Oujo to Tensai Reijou no Mahou Kakumei
 Endro~!
+SPY×FAMILY
+SPY×FAMILY Part 2
+SPY×FAMILY Season 2
 Fermat no Ryouri
 Gamers!
 PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
